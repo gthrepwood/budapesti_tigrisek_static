@@ -1,0 +1,331 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+  </head>
+  <link rel="stylesheet" href="css/basic.css" />
+  <link rel="stylesheet" href="css/pagination.css" />
+  <script src="js/basic.js"></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/showdown/1.9.0/showdown.min.js"></script>
+  <script src="js/showdown-table.min.js"></script>
+  <script src="js/members.js"></script>
+  <script src="js/js-yaml.min.js"></script>
+  <script src="//ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/simplePagination.js/1.6/jquery.simplePagination.js"></script>
+  <link
+    href="//fonts.googleapis.com/css2?family=Sora:wght@200&display=swap"
+    rel="stylesheet"
+  />
+  <link
+    href="//fonts.googleapis.com/css?family=Ma+Shan+Zheng&display=swap"
+    rel="stylesheet"
+  />
+  <link
+    rel="stylesheet"
+    href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css"
+  />
+  <!-- <script src="//cdn.jsdelivr.net/npm/pouchdb@7.2.1/dist/pouchdb.min.js"></script> -->
+
+  <body>
+    <div class="navbar gradient">
+      <table border="0" cellspacing="0" cellpadding="0">
+        <tr>
+          <td>&nbsp;</td>
+          <td>
+            <a href="javascript:void(0);" class="icon" onclick="myFunction()">
+              <i class="fa fa-bars"></i>
+            </a>
+          </td>
+          <td>
+            <img
+              src="images/header/tigris.png"
+              width="70"
+              height="70"
+              style="margin: 4px"
+            />
+          </td>
+          <td class="header" nowrap>&nbsp;Budapest Tigers Taekwon-do Team</td>
+          <td width="80px"></td>
+          <td>
+            <a
+              href="http://www.facebook.com/groups/tigrisek?ap=1"
+              target="_blank"
+              ><img
+                class="logo"
+                title="Facebook"
+                src="images/header/facebook.png"
+                width="50"
+                height="50"
+            /></a>
+          </td>
+          <td>
+            <a href="https://itftkd.sport" target="_blank"
+              ><img
+                src="images/header/face_melle.png"
+                title="ITF"
+                width="50"
+                height="50"
+                class="logo"
+            /></a>
+          </td>
+          <td>
+            <a href="https://itftkd.sport" target="_blank"
+              ><img
+                src="images/header/itf.png"
+                title="ITF"
+                a
+                width="100"
+                height="50"
+                class="logo"
+            /></a>
+          </td>
+          <td>
+            <a href="http://www.itfeurope.org/" target="_blank"
+              ><img
+                src="images/header/atf.png"
+                title="ITF-EUROPE"
+                width="50"
+                height="50"
+                class="logo"
+            /></a>
+          </td>
+        </tr>
+      </table>
+    </div>
+
+    <!-- <div class="main">
+      <p>Some text some text some text some text..</p>
+
+
+    </div> -->
+
+    <div w3-include-html="sidebar.html"></div>
+
+    <div class="main">
+      <!-- Top Navigation Menu -->
+      <div class="topnav">
+        <!-- <a href="#home" class="active">Logo</a> -->
+        <!-- Navigation links (hidden by default) -->
+        <div id="myLinks">
+          <a href="#Hirek" onclick="pagechange(this)">Hírek</a>
+          <a href="#Edzesek" onclick="pagechange(this)">Edzések</a>
+          <a href="#Tagok" onclick="pagechange(this)">Tagok</a>
+          <a href="#Taekwondo" onclick="pagechange(this)">Taekwondo</a>
+          <a href="#Onvedelem" onclick="pagechange(this)">Önvédelem</a>
+          <a href="#Ovis_Taekwon-do" onclick="pagechange(this)"
+            >Ovis Taekwondo</a
+          >
+          <a href="#Joga" onclick="pagechange(this)">Jóga</a>
+          <a href="#!Esemenyek" onclick="pagechange(this)">Események</a>
+          <a href="#Partnerek" onclick="pagechange(this)">Partnerek</a>
+          <a href="#Terkep" onclick="pagechange(this)">Térkép</a>
+          <a href="#Kapcsolat" onclick="pagechange(this)">Kapcsolat</a>
+        </div>
+        <!-- "Hamburger menu" / "Bar icon" to toggle the navigation links -->
+        <!-- <a href="javascript:void(0);" class="icon" onclick="myFunction()">
+    <i class="fa fa-bars"></i>
+  </a> -->
+      </div>
+
+      <a id="image1"> </a>
+
+      <a id="Article"> </a>
+
+      <script>
+        function getURL(url) {
+          r = $.ajax({
+            type: "GET",
+            url: url,
+            cache: false,
+            async: false,
+          }).responseText;
+          return JSON.parse(r);
+        }
+
+        // window.addEventListener('paste', ... or
+        document.onpaste = function (event) {
+          var items = (event.clipboardData || event.originalEvent.clipboardData)
+            .items;
+          // console.log(JSON.stringify(items)); // will give you the mime types
+          for (index in items) {
+            var item = items[index];
+            if (item.kind === "file") {
+              var blob = item.getAsFile();
+              var reader = new FileReader();
+              reader.onload = function (event) {
+                // console.log(event.target.result);
+                s = '<img src="@1" />"';
+                s = s.replace("@1", event.target.result);
+                $("#image1").html(s);
+                // data url!
+                reader.readAsDataURL(blob);
+              };
+            }
+          }
+        };
+
+        page_base = "pages/";
+        page = "";
+        function pagechange(obj = null) {
+          document.getElementById("myLinks").style.display = "none";
+
+          // var page_url = getUrlParameter("page");
+          // if (page_url && page_url != "") {
+          //   // $.get(page_base + page_url + ".md", markdown);
+          //   page = page_url;
+          // } else {
+          ext = ".md";
+          if (obj && obj != null) {
+            document.location = obj.href;
+            page = document.location.hash.substr(1);
+          } else {
+            page = document.location.hash;
+
+            if (page == "" || page.indexOf("#page-") == 0) {
+              page = "Hirek";
+              document.location.hash = "#Hirek";
+            } else {
+              page = page.substr(1);
+            }
+            // document.location.hash = "#Hirek";
+          }
+          if (page.substr(0, 1) == "!") {
+            page = page.substr(1);
+            ext = ".html";
+          }
+
+          $.get(page_base + page + ext, markdown);
+          // readTextFile(page_base + page, markdown);
+          // }
+        }
+
+        var converter = new showdown.Converter({ extensions: ["table"] });
+        converter.setOption("parseImgDimensions", true);
+
+        function markdown(obj) {
+          obj = taekwondo_menu_macro(obj);
+
+          var content = converter.makeHtml(obj);
+
+          // add something after the normal page
+
+          // page = getUrlParameter("page");
+
+          if (document.location.hash == "#Tagok") {
+            // $("#Article").html(converter.makeHtml(obj));
+            content += show_all_members(getURL("data/members.json"));
+          } else if (
+            // (document.location.hash == "" && (!page || page == "")) ||
+            document.location.hash == "#Hirek" ||
+            document.location.hash.indexOf("#page-") == 0
+          ) {
+            //$("#Article").html(converter.makeHtml(obj));
+
+            $.ajax({
+              type: "GET",
+              url: "data/hirek.yaml",
+              success: function (response) {
+                hirek(jsyaml.load(response));
+                // hirek(response);
+              },
+            });
+
+            // $.ajax({
+            //   type: "GET",
+            //   url: "data/hirek.json",
+            //   success: function (response) {
+            //     hirek(response);
+            //   },
+            // });
+          }
+
+          $("#Article").html(content);
+        }
+
+        function hirek(obj) {
+          var r = `<div id="pagination-container"></div>
+                  <div class="list-wrapper">`;
+          for (i = obj.table.rows.length - 1; i >= 0; i--) {
+            var item = obj.table.rows[i];
+            s = `<div class="list-item">
+                      <h4>@1</h4>
+                      <small>Dátum: @0</small>
+                      <p>@2</p>
+                      </div>`;
+            // s = "<h1>@1</h1><b>@1</b><div>@1</div>";
+
+            r += s
+              .replace("@0", item.values[0].value.split(" ")[0]) // date
+              .replace("@1", item.values[1].value)
+              .replace("@2", item.values[2].value);
+          }
+          r += `</div>`;
+
+          $("#Article").html(r);
+
+          var items = $(".list-wrapper .list-item");
+          var numItems = items.length;
+          var perPage = 4;
+
+          items.slice(perPage).hide();
+
+          $("#pagination-container").pagination({
+            cssStyle: "light-theme",
+            items: numItems,
+            itemsOnPage: perPage,
+            prevText: "&laquo;",
+            nextText: "&raquo;",
+            displayedPages: 2,
+
+            onPageClick: function (pageNumber) {
+              var showFrom = perPage * (pageNumber - 1);
+              var showTo = showFrom + perPage;
+              items.hide().slice(showFrom, showTo).show();
+            },
+          });
+        }
+
+        pagechange();
+
+        includeHTML();
+      </script>
+    </div>
+
+    <div class="footer">
+      Copyright © 2022 Budapesti Tigrisek
+      <table
+        border="0"
+        cellspacing="0"
+        cellpadding="0"
+        style="margin: auto; padding: 0px 0px"
+      >
+        <tr>
+          <td>
+            &nbsp;<img
+              src="images/footer/krisztian.jpg"
+              height="40"
+              width="40"
+            />&nbsp;
+          </td>
+          <td nowrap>
+            <b>Pataki Krisztián VI.Dan</b> | Klubvezető elnök |
+            <a href="mailto:tigrisek@gmail.com">tigrisek@gmail.com</a> |
+            <a href="tel:+36709415992">+36/70-9415992</a>
+          </td>
+          <td>
+            &nbsp;<img
+              src="images/footer/aniko1.jpg"
+              height="40"
+              width="40"
+            />&nbsp;
+          </td>
+          <td nowrap>
+            <b>Patakiné Zs. Anikó</b> III.Dan | Klubvezető helyettes
+            <!-- <a href="mailto:aniko@gmail.com">patakineaniko@gmail.com</a>  +36/70-3184834 -->
+          </td>
+        </tr>
+      </table>
+    </div>
+  </body>
+</html>

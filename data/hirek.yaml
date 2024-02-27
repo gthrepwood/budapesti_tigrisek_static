@@ -1,0 +1,1287 @@
+---
+table:
+  columns:
+    - name: Datum
+    - name: Cim
+    - name: Text
+  rows:
+    - rowNumber: 1
+      values:
+        - value: "2011-07-23 19:11:00.0"
+        - value: Vigyáz ... kész... START
+        - value:
+            "<p align=\"center\">Helló van!</center><br><br></p>\r\\nELINDULTUNK.
+            Sok szeretettel köszöntelek a megújult Tigrisek oldalon! Az esetleges elírások
+            és vagy téves adatok esetén, kérek mindenkit, jelezze a már ismert címen.
+            <br><br>\r\\n\r\\nÜdvözlettel: Bsyrex Admin<br><br>\r\\n\r\\nHa tetszik az
+            oldal, és te is szeretnél magadnak vagy céged számára, vagy csak egy kérdés
+            fogalmazódott meg benned, írj bátran és közösen válaszokat találunk a kérdésedre.<br><br>\r\\nMail:<br>\r\\nbsyrex@gmail.hu\r\\n<br><br>"
+    - rowNumber: 2
+      values:
+        - value: "2011-07-27 19:19:00.0"
+        - value: " Óriási siker a romániai Summer Cup-on"
+        - value:
+            "\r\\n<b>Óriási siker a romániai Summer Cup-on</b><br><br>\r\\n\r\\n\r\\nA
+            BT SE csapata 7 fővel képviseltette magát ezen a nagy nemzetközi ITF Taekwon-do
+            bajnokságon,\r\\nAhol egyéni és csapat küzdelemben, formagyakorlatban, törés-technikai
+            versenyszámokban és tradicionális küzdelemben lehetett indulni, \r\\nahol
+            Európa bajnoki párosunk hozta az elvárt eredményt, és ismét nagy sikert arattak.<br><br>\r\\n\r\\nCsapatunk
+            a magyar válogatott színeiben indult, mely a legeredményesebb ifjúsági és
+            felnőtt csapatversenyben is arany érmet szerzett.<br><br>\r\\n\r\\nKäfer Dóri:
+            3 arany, 4 ezüst<br>\r\\nKäfer Zsolt:2 arany, 1. ezüst, 2 bronz<br>\r\\nLeiti
+            Edmond: 4 arany 2 ezüst 1 bronz<br>\r\\nNagy Tamás: 1 arany<br>\r\\nNagy Adrián
+            2 arany, 2 ezüst, 1 bronz<br>\r\\nNagy Patrik: 1 arany, 1 bronz<br>\r\\nPataki
+            Krisztián 5 arany, 1 bronz<br><br>\r\\n\r\\nHihetetlen eredmény, hogy a hét
+            induló összesen 33 éremmel tért haza erről a 4 napos nemzetközi kupáról.<br>\r\\n18
+            arany, 9 ezüst, 6 bronz<br><br><br><br>"
+    - rowNumber: 3
+      values:
+        - value: "2011-07-28 02:00:00.0"
+        - value: Pályázat!
+        - value:
+            "<IMG SRC=\"http://kepfeltoltes.hu/110728/tigris02_www.kepfeltoltes.hu_.jpg\"
+            ALIGN=\"left\">\r\\n<p ALIGN=\"center\">\r\\nMiért a Tigrisek?<br>\r\\n\r\\n
+            Kérek mindenkit, hogy írja le miért szeret ide járni, ki mit kapott a klubtól,<br>\r\\n
+            a taekwon-dotól! A legjobb írások felkerülnek a honlapunkra!:)<br>\r\\n Kisorsolunk
+            2 pályázót, aki kap egy bónusz havibérletet:)<br>\r\\nPályázatokat a tigers@citromail.hu-ra
+            várom!<br>\r\\n1.Sorsolás júl 31-én; \r\\n2.Sorsolás: augusztus 14-én :)<br></p>"
+    - rowNumber: 4
+      values:
+        - value: "2011-07-27 02:00:00.0"
+        - value: IX. Nemzetek kupája Hatvan
+        - value:
+            "<b>A Tigers név újra szép lett, méltó régi nagy híréhez...</b><br>\r\\n\r\\n2011
+            május 14.én rendezték meg Hatvanban a IX. Nemzetek kupája ITF Taekwon-dó versenyt,
+            melyen 6 ország 30 klubja és 250 versenyzője képviseltette magát<br>\r\\n\r\\n16
+            versenyzővel, valamint számos lelkes szülővel és kísérővel  vettünk részt
+            a Nemzetek Kupáján, ahol gyermek, serdülő és ifjúsági versenyzőink formagyakorlat
+            és küzdelmi kategóriákban 3 arany, 11 ezüst és 5 bronzérmet szereztek! Ennek
+            a kiváló teljesítménynek köszönhetően pedig elhozhattuk a csapat összesítés
+            második helyéért járó kupát is!!! \r\\n<br>\r\\nEredmények:<br>\r\\nGyermek:<br>\r\\nOrha
+            Virág - küzdelem  45kg ARANY<br>\r\\nVirág Brigi - formagyakorlat EZÜST; küzdelem
+            -45kg EZÜST<br>\r\\n\r\\nNagy Patrik - formagyakorlat ARANY<br>\r\\nTar Balázs
+            - formagyakorlat EZÜST; küzdelem -40kg EZÜST<br><br>\r\\n\r\\nSerdülő:<br>\r\\nSchäfer
+            Anna - küzdelem -45kg BRONZ<br>\r\\n\r\\nNagy Adrián - formagyakorlat EZÜST<br>\r\\nLiszi
+            Gergő - formagyakorlat BRONZ<br><br>\r\\n\r\\nIfjúsági:<br>\r\\nHorváth Fruzsina
+            - formagyakorlat ARANY; küzdelem -57kg EZÜST<br>\r\\nKäfer Dóra - küzdelem
+            -63kg EZÜST<br>\r\\nMolnár Anna - formagyakorlat BRONZ; küzdelem -51kg BRONZ<br>\r\\n\r\\nHorváth
+            Gergő - formagyakorlat EZÜST; küzdelem -56kg EZÜST<br>\r\\nKäfer Zsolt - formagyakorlat
+            BRONZ; küzdelem -80kg EZÜST<br>\r\\nHegedűs Norbi - formagyakorlat EZÜST<br>\r\\n<br>\r\\nBudapesti
+            Tigrisek SE Legeredményesebb csapat II. hely.\r\\n"
+    - rowNumber: 5
+      values:
+        - value: "2011-08-12 02:00:00.0"
+        - value: Szeptember
+        - value:
+            "\r\\n<IMG SRC=\"/images/kid.jpg\" ALIGN=\"left\">\r\\n<p ALIGN=\"center\">\r\\n\r\\n\r\\nItt
+            van az ősz, itt van újra, S szép, mint mindig, énnekem. <br>\r\\nTudja isten,
+            hogy mi okból szeretem? De szeretem. <br><br>\r\\nIndulnak az edzések, és
+            érkeznek a kezdők is. <br>\r\\nAz első edzések álltalában szeptember 5. étől
+            indulnak minden helyszínen.<br> <br>\r\\nMit kell hozni az edzésre?  <br>\r\\nEgy
+            melegítő nadrágot, fehér pólót, jókedvet, vidámságot, és egy kis kitartást.
+            <br> \r\\nAz első edzés mindenkinek ingyenes, <br>\r\\nakkor is ha év közben
+            csatlakoztok a  csapathoz.<br>\r\\nGyertek bátran nem eszünk meg senkit sem
+            :) <br></p>"
+    - rowNumber: 6
+      values:
+        - value: "2012-05-10 17:54:44.0"
+        - value: Újabb EB érmek a Tigriseknél!
+        - value:
+            "<p><img style=\"vertical-align: middle; display: block; margin-left:
+            auto; margin-right: auto;\" src=\"../../images/eb2012.jpg\" alt=\"\" width=\"650\"
+            height=\"413\" /></p>\r\\n<p>
+            Miközben mindenki arról beszél, hogy kik
+            jutottak, vagy nem jutottak ki az Olimpiára, kerületünk egyik Sportegyesülete
+            sikert sikerre halmoz. A Budapesti Tigrisek két fővel képviselte hazánkat
+            az idei Taekwon-do Európa Bajnokságon Mariborban, Szlovákiában.</p>\r\\n<p>Pataki
+            Krisztián mester Tradicionális küzdelemben, ill. formagyakorlatban szerzett
+            bronzérmet, míg Nagy Adrián ifjúsági csapat erőtörésben állhatott a dobogó
+            3. fokára.</p>\r\\n<p> </p>"
+    - rowNumber: 7
+      values:
+        - value: "2011-12-08 01:00:00.0"
+        - value: Karácsony
+        - value:
+            "<br>A karácsonyi Tigris buli idén két helyen kerül megrendezésre.<br>\r\\nSárga
+            öv felett mindenkinek, és az összes újpestinek Újpesten lesz 22.-én csütörtökön<br>\r\\n
+            a fóti út 35 szám alatt :) 17:00- ameddig jól esik.<br>\r\\nA Lőrincieknek
+            sárga csíkig , beleértve az ovisokat is, 21.én szerdán <br>\r\\nlesz a Hargita
+            tér 4 szám alatt 17:30-19:30 ig.<br>\r\\n<img src=\"https://lh4.googleusercontent.com/-z4w5DzDSjoM/SU5WYpQTayI/AAAAAAAAGM8/0oU3cQXAzls/s640/P1060071.JPG\"
+            /><br> \r\\nA bulira hozzatok sütit, üdítőt! A belépés ingyenes.<br><br>"
+    - rowNumber: 8
+      values:
+        - value: "2012-02-21 14:00:23.0"
+        - value: 2012 programok
+        - value:
+            "<p align=\"center\"><span style=\"font-size: large;\"><strong><em>Kedves
+            Szülők!</em></strong></span></p>\r\\n<p> </p>\r\\n<p><strong><em> <span style=\"text-decoration:
+            underline;\">2012. március 25.    9:00 - 18:00 Tigers Cup</span></em></strong></p>\r\\n<p>Meghívásos,
+            gyermek, serdülő, ifjúsági, felnőtt ITF Taekwon-do Házi-Bajnokság, és Családi
+            nap.</p>\r\\n<p>A versenyen mindenkit szeretnék látni küzdeni. Korcsoportok
+            és azon belül súlycsoportokra osztva küzdenek a versenyzők az érmekért.</p>\r\\n<p>A
+            Nevezési díj 1500.- forint melyet az edzéseken szedünk be Március elején.</p>\r\\n<p> </p>\r\\n<p><span
+            style=\"text-decoration: underline;\">A Családi nap alatti programok:</span></p>\r\\n<p>Zsákbanfutó
+            verseny...</p>\r\\n<p>A Süti-sütő versenyre bárki nevezhet, anya, apa, nagyi,
+            vagy gyerek.</p>\r\\n<p>Értékelési szempontok:  Küllem, tálalás, íz,</p>\r\\n<p>A
+            zsűri megegyezik a verseny pontozó, és vezető bíráival. értékelés az ebédszünetükben
+            :)</p>\r\\n<p>Díjazás: Oklevél</p>\r\\n<p> </p>\r\\n<p>Az énekversenyen való
+            részvétel nem kötelező. Lehet egyénileg indulni, ill. csapatosan is.</p>\r\\n<p>Az
+            ének versenyen kötelező előadni a következő dalt! <a href=\"http://egyszervolt.hu/dal/tigris.html\">http://egyszervolt.hu/dal/tigris.html</a></p>\r\\n<p>Díjazás
+            Oklevél.</p>\r\\n<p> </p>\r\\n<p>A rajz versenyen lehet indulni otthon készített,
+            és helyszínen rajzolt, festett művekkel.</p>\r\\n<p>A rajzok témája Taekwon-do
+            vagy Tigris, esetleg mindkettő :)</p>\r\\n<p>A versenyen kiállítást rendezünk
+            a művekből, és a képek felkerülnek a honlapunkra is!</p>\r\\n<p>Díjazás Oklevél.</p>\r\\n<p> A
+            versenyhez sikeres felkészülést kívánunk!</p>\r\\n<p> </p>\r\\n<p><strong><span
+            style=\"text-decoration: underline;\">Edzőtábor 2012: </span></strong></p>\r\\n<p>Idén
+            is 2 edzőtábort szervezünk. Egyet közösen a Spirit SE-vel:</p>\r\\n<p>Helye:
+            Szigetszentmárton, ideje: 2012 július 23-29.díja 24.000.- forint</p>\r\\n<p> </p>\r\\n<p>Egyet
+            pedig a Balatonon Augusztus 21-25, Szántódon a Rév hotelben :)</p>\r\\n<p>5
+            nap/4 éj szállás teljes ellátással :   15.000.- forintért.</p>\r\\n<p>A táborba
+            jöhetnek szülők, esetleg barátok, barátnők is :)</p>\r\\n<p>Kérnék mindenkit,
+            hogy jelezze, melyikre hány fővel szeretne jelentkezni!</p>\r\\n<p>Ez már
+            fix, mindenki így tervezze a nyarát!</p>\r\\n<p> </p>\r\\n<p>Mint minden évben,
+            most is tavasszal kell fizetni egyesületünknek a hazai, és nemzetközi szövetség
+            felé a kötelező éves-tagdíjakat.</p>\r\\n<p>Ezek befizetése nélkül a tanítványok
+            nem vizsgázhatnának.</p>\r\\n<p>Az éves tagdíjunk évek óta nem változott:1000.-/fő
+            melyet a tagsági igazolványokkal együtt szedünk be az edzéseken.</p>\r\\n<p> </p>\r\\n<p
+            align=\"center\">Köszönettel:</p>\r\\n<p align=\"center\"><strong><em>Pataki
+            Krisztián IV.dan</em></strong> vezetőedző</p>\r\\n<p align=\"center\">Budapesti
+            Tigrisek SE.</p>\r\\n<p align=\"center\"><a href=\"http://www.tigrisek.hu/\">www.tigrisek.hu</a></p>\r\\n<p
+            align=\"center\"><a href=\"http://www.facebook.com/groups/tigrisek/\">http://www.facebook.com/groups/tigrisek/</a></p>"
+    - rowNumber: 9
+      values:
+        - value: "2011-12-08 00:09:56.0"
+        - value: Magyar Bajnokság
+        - value:
+            '<strong>Éremeső a Tigriseknél!<br /></strong><br /> November 11-13.-án
+            rendezték meg az Ifjúsági és felnőtt Magyar Bajnokságot, Mezőhegyesen.<br
+            /> (Magyar ITF Taekwon-do 35. születésnapja alkalmából mely most 42 klubot
+            tart nyilván)<br /> A Budapesti Tigrisek SE 4 ifjúsági és 5 felnőtt versenyzővel
+            képviseltette magát ezen a rangos versenyen. <br /> <br />Elsőnek <strong>Nagy
+            Adrián</strong> (15) I.danos ifi mesterünk lépett a pástra. Formagyakorlatban
+            igen népes mezőnyből nagyszerű versenyzéssel jutott a döntőbe, ahol nagy riválisával
+            került össze, aki egy hajszállal jobbnak bizonyult nála. Nem kesereghettünk
+            sokat, mert Adrián tradicionális küzdelem versenyszámban következett, és ahogy
+            már idén megszokhattuk tőle, most sem talált legyőzőre, így megszületett az
+            első Arany érmünk. Ezt követte még az egyéni speciál törés Bronz érem, és
+            a csapat spec Arany.<br /> <br /><strong>Käfer Dóra</strong> (17) aki évek
+            óta a legeredményesebb versenyzőnk, az utolsó ifjúsági megmérettetésén, ismét
+            fantasztikus sikereket ért el:<br /> Küzdelem  60kg. és csapat speciál törés
+            Arany, egyéni spec., csapat küzdelem, csapaterő törés Ezüst. Csapat forma-gyakorlat
+            Bronz érem. Dórinak jövőre, hasonlóan sikeres versenyzést kívánunk a felnőtt
+            mezőnyben!<br /> <br /><strong>Pataki Krisztián Mester</strong> a büszkeségen
+            kívül, szintén sok éremmel térhetett haza. Felnőtt Tradicionális küzdelemben
+            a kétszeres Európa bajnokunk most is elhozta az arany érmet, és így idén is
+            megszerezte a Magyar Bajnoki címet. Formagyakorlatban Ezüst, -71kg-s küzdelemben
+            pedig Bronz érmet szerzett. <br /><br /> További eredmények:<br /> <strong>Horváth
+            Fruzsina</strong>: Küzdelem -55kg. Ezüst, egyéni és csapat-formagyakorlatban
+            Bronz érem.<br /> <strong>Horváth Gergő:</strong> Csapat speciál törés Arany,
+            Csapat forma Bronz érem.<br /> <strong>Jakab Norbert:</strong>  80kg. Küzdelem
+            Bronz érem<br /><br /> <strong>Leiti Edmond, Borzsák Endre és Pataki Krisztiá</strong>n
+            is részese volt a felnőtt férfi speciál törő csapatunknak, mely a dobogó 3.helyén
+            végzett.<br /><br />                         <img src="../../images/ob2011.jpg"
+            alt="" width="500" height="313" /><br /><br /><br /> <strong>Höflinger Zsolt</strong>,
+            Egyesületünk alapító tagja korát meghazudtoló lelkesedéssel készült és vett
+            részt a csapat formagyakorlat versenyszámban és az előkelő 4. helyen zárhatott
+            élete első Magyar Bajnokságán.<br /> Ezen a versenyen is a Mi szurkolóinktól
+            zengett a csarnok, akikhez társultak a “Testvér klubunk” tagjai is.<br />
+            Ezúton szeretnénk megköszönni a <span style="text-decoration: underline;"><strong>Hatvani
+            Spirit Taekwon-do</strong></span> klubnak a közös munkát és a szurkolást!<br
+            /><br />'
+    - rowNumber: 10
+      values:
+        - value: "2012-08-08 23:28:57.0"
+        - value: Bemutató zene
+        - value:
+            "<h1 style=\"text-align: center;\"><strong>Bemutató zene!</strong></h1>\r\\n<div
+            style=\"text-align: center;\"><br /><br />Az alábbi linkre kattintva tudjátok
+            meghallgatni a <a href=\"../bemutato.mp3\" target=\"_blank\">Bemutató zenét</a>.<br
+            /><a href=\"../bemutato.rar\" target=\"_blank\">A letöltéshez kattints ide.<br
+            /></a>(a kicsomagoláshoz winrar program szükséges amit <strong><a href=\"../wrar.exe\">itt</a></strong>
+            lehet elérni)<strong><br /> </strong></div>"
+    - rowNumber: 11
+      values:
+        - value: "2012-08-29 23:00:21.0"
+        - value: Edzés
+        - value:
+            '<span style="font-size: small; font-family: arial, helvetica, sans-serif;"><span><br
+            /><br /><br />              </span><img style="float: left;" src="../../images/kid.jpg"
+            alt="" width="136" height="251" /><span>                          <br /><br
+            /><span>                           Itt van az ősz, itt van újra, S szép, mint
+            mindig, énnekem.</span><br /><span>                                 Tudja
+            isten, hogy mi okból szeretem? De szeretem.</span><br />
+            <br />                                    Indulnak az edzések,
+            és érkeznek a kezdők is.</span><span class="example2"><br />
+            Az első edzések álltalában szeptember 3.-tól indulnak minden helyszínen.</span><br
+            /><span class="example2">                                                Mit
+            kell hozni az edzésre?<br /></span><br /><span class="example2">
+            Egy melegítő nadrágot, fehér pólót, jókedvet, vidámságot, és egy kis kitartást.</span><br
+            /><span class="example2">                                         Az első
+            edzés mindenkinek ingyenes,</span><br /><span class="example2">
+            akkor is ha év közben csatlakoztok a csapathoz.<br /><br
+            /></span><span><span class="example2">
+            Gyertek bátran nem eszünk meg senkit sem</span> .<br /><br /><br /><br /><img
+            class="emote_img" title=":)" src="http://static.ak.fbcdn.net/images/blank.gif"
+            alt="smile" /></span><span> </span> </span>'
+    - rowNumber: 12
+      values:
+        - value: "2012-10-17 14:23:57.0"
+        - value: Fantasztikus siker
+        - value:
+            "<p><span style=\"font-size: medium;\"><strong>Fantasztikus sikert értek
+            el a Tigrisek Brightonban</strong></span></p>\r\\n<p> </p>\r\\n<img style=\"float:
+            right;\" src=\"../images/bringthon.jpg\" alt=\"\" width=\"288\" height=\"103\"
+            />\r\\n<p><br />Október 4-7. között rendezték meg Angliában, Brightonban az
+            ITF Taekwon-do világkupát  A 4 napos eseményen 45 ország, 1579 versenyzője
+            mérte össze tudását. A verseny rendezője Philip Lear, a megnyitó ünnepségen
+            elmondta, hogy az indulók száma a brightoni világkupán volt a legnagyobb,
+            a valaha megrendezett Taekwon-do versenyek közül.</p>\r\\n<p> </p>\r\\n<p>A
+            különböző versenyszámok egyszerre 10 küzdőtéren folytak, melyekről folyamatos
+            közvetítést lehetett látni az interneten, és az angol sportcsatornákon.</p>\r\\n<p> </p>\r\\n<p> A
+            11 fős Magyar válogatott tagjaként, Pataki Krisztián Mester <span>Egyesületünk
+            </span>kiváló sportolója 3 arany és két bronzérmet szerzett.</p>\r\\n<p>-68kg-os
+            küzdelemben, formagyakorlatban, és tradicionális küzdelemben állhatott a dobogó
+            legmagasabb<br /> fokára.<br /><img src=\"../images/totisport.JPG\" alt=\"\"
+            width=\"705\" height=\"515\" /> </p>\r\\n<p> </p>\r\\n<p>Speciál technikai
+            törésben szerezett bronzérmet, és a csapatküzdelmekben is oda tette magát,
+            mellyel hozzájárult a Magyar csapat sikeréhez. Itt általában 5 1 fő alkot
+            egy csapatot, de a magyarok csak 4 fővel neveztek, ráadásul a kiutazás előtt
+            az egyik versenyzőnek achilles szakadása volt, így csak 3 fővel (Kandikó Zoltán,
+            Pataki Krisztián, Szász Péter) versenyzett. Ez azt jelentette, hogy minden
+            csapattagnak nyernie kellett a küzdelmeket, hogy továbbjussanak. Ez még így
+            is sikerült, a bronzéremig jutottak, de Kandikó Zoltán sérülése miatt nem
+            tudtak tovább versenyezni, 3. lett a férfi küzdő csapatunk.</p>\r\\n<p> </p>\r\\n<p>Hihetetlen
+            siker ez, mert Magyar sportoló még soha sem ért el ekkora eredményt.</p>\r\\n<p>A
+            verseny végén derült ki, hogy a legeredményesebb férfi különdíját is Pataki
+            Krisztián mester kapta.<br /><img src=\"../images/totisport2.JPG\" alt=\"\"
+            width=\"705\" height=\"429\" /> </p>\r\\n<p> </p>\r\\n<p>Pataki mester mégis
+            arra a legbüszkébb, hogy ifjúsági korcsoportban induló tanítványa Nagy Adrián,
+            tradicionális küzdelemben kimagasló teljesítménnyel szerzett bronzérmet a
+            Világkupán. Az idei EB bronz után továbbra is jó formában versenyeztek a Tigrisek.</p>\r\\n<p>Egyesületünk
+            nevében, külön szeretnénk köszönetet mondani Vida Bélának, a Kondor Béla Általános
+            Iskola igazgatójának, a Toti Sport-nak, és a helyi Önkormányzatnak, hogy segítették
+            az eredményes felkészülésünket.</p>\r\\n<p> </p>"
+    - rowNumber: 13
+      values:
+        - value: "2012-10-23 12:25:16.0"
+        - value: 3. Eagles Cup
+        - value:
+            "<h5><span style=\"font-size: medium;\">Színvonalas versenyen vehettünk
+            részt idén is a III. Sasok kupán. Kis csapattal indultunk, de a 3 versenyző
+            összesen 12 éremmel gazdagodott! Szász Péter mester kérésére ifi és felnőtt
+            korosztályban is hozzá járultunk a testvér klubunk (Spirit) csapat sikereihez </span></h5>\r\\n<div><strong><span
+            style=\"font-size: medium;\"><br /></span></strong></div>\r\\n<div>\r\\n<h5><strong><span
+            style=\"font-size: medium;\"><img style=\"float: right; margin-left: 55px;
+            margin-right: 55px;\" src=\"../../images/patrikea.jpg\" alt=\"\" width=\"200\"
+            height=\"300\" /></span></strong></h5>\r\\n</div>\r\\n<h5 style=\"text-align:
+            justify;\"><strong><span style=\"font-size: medium;\"><br /></span></strong></h5>\r\\n<h5
+            style=\"text-align: justify;\"><strong><span style=\"font-size: medium;\">A
+            14 év alatti kategóriában Nagy <br /></span><span style=\"font-size: medium;\">Patrik </span><span
+            style=\"font-size: medium;\">formagyakorlatban 3. <br />helyezést ért el. </span><span
+            style=\"font-size: medium;\">Gyönyörűen <br />formázott, a döntőbe kerülésnél <br
+            /></span><span style=\"font-size: medium;\">kapott ki a 2-1 arányban. /Sajnos
+            :( /<br /></span><span style=\"font-size: medium;\">Kicsit érthetetlen volt,
+            hogy a <br />hajnalban </span><span style=\"font-size: medium;\">kelő kis
+            gyerekeket (-37kg.) <br />küzdelemben, </span><span style=\"font-size: medium;\">miért
+            csak este 8 kor <br />küldték a pástra. </span><span style=\"font-size: medium;\">A
+            körmérkőzésben <br />Patrik 1 győzelemmel, </span><span style=\"font-size:
+            medium;\">1 vereséggel <br />sajnos nem jutott be a négy közé. </span></strong></h5>\r\\n<div><strong><span
+            style=\"font-size: medium;\"><br /></span></strong></div>\r\\n<h5 style=\"text-align:
+            justify;\"><strong><span style=\"font-size: medium;\">Majd a következő verseny
+            még jobb lesz! ;)</span></strong></h5>\r\\n<h5 style=\"text-align: justify;\"> </h5>\r\\n<h5
+            style=\"text-align: justify;\"><strong><span style=\"font-size: medium;\"><img
+            style=\"float: left; margin: 5px;\" src=\"../../images/adriea.jpg\" alt=\"\"
+            width=\"200\" height=\"300\" />       Ifjúsági korosztályban Nagy <br />
+            Adrián 7 érmet hozott el a versenyről. <br />       Összesítésben 3.
+            legeredményesebb <br />       versenyző lett az ifi fiúk között. <br />
+            Tradicionális küzdelemben aranyérmes <br />       lett Csorba Ádámmal.
+            Küzdelemben <br />        -70 kg-ban ezüstérmet szerzett, <br />       egyéni
+            speciál törésben 3. lett.</span></strong></h5>\r\\n<h5 style=\"text-align:
+            justify;\"><strong><span style=\"font-size: medium;\">       A többi érmet
+            csapatban szerezte <br />       a Spirittel közösen. <br /><br />       Csapatforma:
+            2.hely, <br />       ~küzdelem 3.hely, <br />       ~spec.törés 2.hely, <br
+            />       ~erőtörés 3.hely.</span></strong></h5>\r\\n<div style=\"text-align:
+            justify;\"> </div>\r\\n<h5><strong><span style=\"font-size: medium;\"> Pataki
+            Krisztián mester aranyérmet szerzett formagyakorlatban és tradicionális küzdelemben,
+            Szász Péterrel. Bronzérmet nyert csapatküzdelemben és ~speciál törésben pedig
+            ezüstöt.</span></strong></h5>\r\\n<div><strong><span style=\"font-size: medium;\"><img
+            style=\"vertical-align: top; margin-left: 10px; margin-right: 10px;\" src=\"../../images/kriszea.jpg\"
+            alt=\"\" width=\"550\" height=\"367\" /></span></strong></div>\r\\n<h5><br
+            /><strong><span style=\"font-size: medium;\"> Óriási verseny volt. Köszönjük
+            azoknak, akik szurkoltak nekünk!</span></strong></h5>\r\\n<p> </p>"
+    - rowNumber: 14
+      values:
+        - value: "2012-11-16 13:30:20.0"
+        - value: Vizsga
+        - value:
+            '<span style="font-size: medium;"><strong>Sziasztok!</strong></span><br
+            /><br /><span style="font-size: small;">Vizsgára felkészítő edzés lesz december
+            2-án vasárnap lőrincen a Kondor Béla Közösségi házban (suli mellett)!<br /></span><br
+            /><span style="font-size: small;">Részt venni erősen ajánlott!:)</span><br
+            /><span style="font-size: small;">Ahogy eddig is, most is külön övszint szerint
+            lesznek felosztva a csoportok, hogy mindenkit jó alaposan átnézhessek. </span><br
+            /><span style="font-size: small;">Csoportbeosztást hamarosan megírom.</span><br
+            /><span style="font-size: small;">Részvételi díj: 1000/fő</span><br /><br
+            /><span style="font-size: small;">Alacsonyöves vizsga lőrincen a Kondor Béla
+            Ált. Iskolában  lesz december 19-én szerdán!</span><br /><br /><span style="font-size:
+            small;">Előtte 18-ára béreltünk nagy termet, a Közösségi házban évzáró-karácsonyi
+            buli lesz, a TIGRISEKNEK:) Várunk mindenkit szeretettel!:)</span>'
+    - rowNumber: 15
+      values:
+        - value: "2012-12-07 14:19:53.0"
+        - value: Önvédelem
+        - value:
+            "<br />\r\\n<p align=\"center\"> </p>\r\\n<p>2013 január 06-tól minden
+            vasárnap 10-11 óráig a Kondor Béla Közösségi házban az Ingyenes \"lendületbe
+            hozzuk\" lakossági program keretén belül, önvédelmi oktatást indít a Budapesti
+            Tigrisek SE.<br /><br /><img style=\"display: block; margin-left: auto; margin-right:
+            auto;\" src=\"../../images/onv2.jpg\" alt=\"\" width=\"200\" height=\"263\"
+            /> </p>\r\\n<p><strong>Civil önvédelem</strong><br /> Célja a hatásos közelharc
+            és \"túlélő\" technikák elsajátítása, melyek képesek elhárítani valós veszélyhelyzeteket.
+            Lásd pl. fojtásból, fogásból, leszorításból szabadulás, támadás visszaverése
+            szűk helyen zárt térben, védekezés például hátrakötözött kézzel csak lábmunkával,
+            egynél több ellenfél, ill. fegyveres támadó elleni hatékony küzdelem stb.</p>\r\\n<p>A
+            leggyakoribb képzési forma, a civileknek oktatott önvédelmi képzés, melynek
+            során olyan technikákkal, mentális felkészítéssel, erőnléttel találkozik a
+            gyakorló, melyeknek a segítségével hazánk jogrendszerének megfelelően tudja
+            megvédeni magát, vagy mások testi épségét. Mivel abból indulunk ki, hogy jogos
+            védelmi helyzetben fogja a gyakorló megvédeni magát, így az is szempont, hogy
+            olyan rendszerrel ismertessük meg az oktatás során, mely hatásos és egyszerű,
+            mégis sikeresen be lehet vele tartani az \"arányosság elvét\", melyet minden
+            súlyos testi sértéssel végződött incidens után vizsgál a hatóság.</p>\r\\n<p>A
+            hivatásosok munkájuk során fokozottan vannak veszélynek kitéve, kiemelten
+            a rendőrök, katonák, tűzoltók, de a mentősök, biztonsági őrök szintén. Nekik
+            is tudunk foglalkozáshoz szabott képzést kínálni, melynek nem csak technikai
+            része van, hanem a mentális felkészítés is komoly szerephez jut. A szakma
+            fortélyaihoz nem tudunk hozzátenni, de ahhoz igen, hogy gyakorlása közben
+            lehetőleg ne legyen semmi bajod. Mindenkit hazavárnak!</p>\r\\n<p><strong>Ősi
+            íratlan szabályok:</strong></p>\r\\n<p>- inkább kitérni, mint elfogadni az
+            értelmetlen provokálást, kihívást<br /> - inkább lefogni, visszatartani, mint
+            megsebesíteni<br /> - inkább megsebesíteni, mint megnyomorítani<br /> - inkább
+            megnyomorítani, mint megölni<br /> - inkább megölni, mint hogy téged öljön
+            meg</p>"
+    - rowNumber: 16
+      values:
+        - value: "2013-02-26 11:37:56.0"
+        - value: ""
+        - value:
+            "<p>Kedves Szülők, Tanítványok!</p>\r\\n<p> </p>\r\\n<p>2012. április
+            13. 9:00 - 16:00 II.Tigers Cup</p>\r\\n<p>Meghívásos, gyermek, serdülő, ifjúsági,
+            felnőtt ITF Taekwon-do Házi Bajnokság.</p>\r\\n<p>A versenyen mindenkit szeretnék
+            látni küzdeni. Korcsoportok és azon belül súlycsoportokra osztva küzdenek
+            a versenyzők az érmekért.</p>\r\\n<p>A Nevezési díj 2000.- forint melyet az
+            edzéseken szedünk be Március elején.</p>\r\\n<p> </p>\r\\n<p> </p>\r\\n<p>Edzőtábor
+            2013:</p>\r\\n<p>Balatonon Augusztus 19-23, Szántódon a Rév hotelben </p>\r\\n<p>5
+            nap/4 éj szállás teljes ellátással : 18.000.- forintért.</p>\r\\n<p>A táborba
+            jöhetnek szülők, esetleg barátok, barátnők is </p>\r\\n<p>Kérnék mindenkit,
+            hogy jelezze, melyikre hány fővel szeretne jelentkezni!</p>\r\\n<p>Ez már
+            fix, mindenki így tervezze a nyarát!</p>\r\\n<p> </p>\r\\n<p>Mint minden évben,
+            most is tavasszal kell fizetni egyesületünknek a hazai, és nemzetközi szövetség
+            felé a kötelező éves-tagdíjakat.</p>\r\\n<p>Ezek befizetése nélkül a tanítványok
+            nem vizsgázhatnának.</p>\r\\n<p>Az éves tagdíjunk évek óta nem változott:1000.-/fő
+            melyet a tagsági igazolványokkal együtt szedünk be az edzéseken.</p>\r\\n<p> </p>\r\\n<p>Köszönettel:</p>\r\\n<p>Pataki
+            Krisztián IV.dan vezetőedző</p>\r\\n<p>Budapesti Tigrisek SE.</p>\r\\n<p><a
+            href=\"http://www.tigrisek.hu/\" rel=\"nofollow\" target=\"_blank\">www.tigrisek.hu</a></p>\r\\n<p><a
+            href=\"http://www.facebook.com/groups/tigrisek/\" rel=\"nofollow\" target=\"_blank\">http://www.facebook.com/groups/tigrisek/</a></p>"
+    - rowNumber: 17
+      values:
+        - value: "2013-03-20 10:18:05.0"
+        - value: ""
+        - value:
+            <img src="../../images/plakat2013.jpg" alt="" width="600" height="848"
+            />
+    - rowNumber: 18
+      values:
+        - value: "2013-05-15 12:34:22.0"
+        - value: VIZSGA
+        - value:
+            "<div class=\"_3hi clearfix\">\r\\n<div class=\"_38 direction_ltr\">\r\\n<p>Az
+            alacsonyöves vizsga június 10-én 17:00-kor kezdődik,lőrincen a Kondor Béla
+            Általános Iskolában (1181. Bp Kondor B. Stny 7.)</p>\r\\n</div>\r\\n<div class=\"_1yr\"> </div>\r\\n</div>\r\\n<div
+            class=\"_3hi clearfix\">\r\\n<div class=\"_38 direction_ltr\">\r\\n<p>Vizsgára
+            felkészítő szeminárium: június 8. szombat 9:00-tól-</p>\r\\n</div>\r\\n<div
+            class=\"_1yr\"> </div>\r\\n</div>\r\\n<div class=\"_3hi clearfix\">\r\\n<div
+            class=\"_38 direction_ltr\">\r\\n<p>A Kondor Béla Közösségi Házban</p>\r\\n</div>\r\\n</div>"
+    - rowNumber: 19
+      values:
+        - value: "2013-11-26 19:44:50.0"
+        - value: Újabb Világbajnoki bronz!!
+        - value:
+            "<p>Újabb Világbajnoki bronzérmet nyert Pataki Krisztián Mester, a Budapesti
+            Tigrisek SE vezető edzője.</p>\r\\n<p> </p>\r\\n<p>Október 23-27. között rendezték
+            meg Spanyolországban, Benidormban az ITF Taekwon-do Világbajnokságot. Az 5
+            napos eseményen 58 ország, 1042 versenyzője mérte össze tudását.</p>\r\\n<p> </p>\r\\n<p>Tradicionális
+            küzdelem kategóriában Pataki Krisztián, Szász Péter párosunk az előkelő 3.
+            helyet szerezte meg, és így megismételte a 2007-es Kanadai sikert.</p>\r\\n<p> </p>\r\\n<p> </p>\r\\n<p> </p>\r\\n<p> </p>\r\\n<p> </p>\r\\n<p> </p>\r\\n<p> </p>\r\\n<p> </p>\r\\n<p> </p>\r\\n<p> </p>\r\\n<p> </p>\r\\n<p> </p>"
+    - rowNumber: 20
+      values:
+        - value: "2013-12-03 14:31:22.0"
+        - value: ""
+        - value:
+            "<p>Kedves Tigrisek!</p>\r\\n<p>Köszönöm, hogy ilyen klasszak voltatok
+            ma is, versenyzők, szülők és szurkolók! Megint megmutattátok, hogy van itt
+            csapatszellem! Jó volt látni, ahogy segítettetek egymásnak, szurkoltatok,
+            sírtunk és nevettünk EGYÜTT. Minden versenyzőnek hatalmas taps, amiért kiállt
+            és csinálta a dolgát, kinek így, kinek úgy sikerült. Szeretlek/szeretünk Titeket!</p>\r\\n<p>A
+            mai fantasztikus versenyeredményeink:</p>\r\\n<p>-Baranyai Réka, küzdelem
+            3. hely -Liu Robin, küzdelem 2.hely -Balázs Olivér, forma 2.hely -Nagy-Varga
+            Csenge forma 1.hely -Nagy-Varga Bence, tradi 3.hely -Oláh Máté, küzdelem,
+            3. hely -Tar Balázs, forma 2. hely, küzdelem 1.hely -Héni Kristóf, tradi 2.hely
+            -Epres Barnus, tradi 3.hely -Csáki Máté, forma 2.hely -Horváth Gergő, küzdelem
+            2.hely -Kiss Viktor, küzdelem 2.hely -Orha Virág, küzdelem 1.hely -Bartus
+            Móni, küzdelem 3. hely, tradi 2.hely, formagyakorlat 1.hely</p>\r\\n<p>Nem
+            szereztek érmet, de szuperek voltak: -Lakatos Lacika -Varga Ádám -Nász Józsi
+            -Kökény Bence -Martyin Bence</p>"
+    - rowNumber: 21
+      values:
+        - value: "2015-02-03 19:36:30.0"
+        - value: Pályázat
+        - value:
+            A Budapesti Tigrisek SE. újra pályázatot hirdet 18. kerületi rászoruló
+            gyermekek sport támogatására!<br />A kerület legeredményesebb harcművész egyesületébe
+            várjuk azokat az Általános Iskolás tanulókat, akiknek a bejelenett lakcíme
+            a 18. kerületben van.! A nyertes pályázók egy évig teljesen ingyen sportolhatnak,
+            melynek költségeit az Egyesület átvállalja.<br />A Pályázat letölthető:  <a
+            href="../doc/palyazat.doc">IDE KATTINTVA</a>
+    - rowNumber: 22
+      values:
+        - value: "2015-06-15 11:55:59.0"
+        - value: Eredményes versenyek :)
+        - value:
+            "<span>Hatvanban rendezték meg a 13. Nemzetek kupáját, melyen igen sok
+            külföldi csapat vett részt. A rangos nemzetközi mezőnyben 3 versenyzővel képviseltük
+            a Tigriseket. Tar Balázs igen kedvezőtlen sorsolással kezdett a később első
+            helyen végző külföldi versenyzővel, akit a legutóbbi Spirit open döntőjében
+            sikerült legyőznie, de most sajnos kifogott rajta, hogy a selejtezőkben csak
+            1x2 perc volt a menetidő. A Moldáv fiú nagyon ügyesen kontrázott, majd folyamatosan
+            elmozgott és nem v</span><span class=\"text_exposed_show\">olt idő vissza
+            fordítani az eredményt. <br />Nász József első versenye volt a serdülők között
+            (10-14). Forma gyakorlatban 3-1.gup kategóriában nagyon szépen kezdett, és
+            simán jutott a négy közé, majd a későbbi győztessel szemben 4-1 arányban alul
+            maradt, így bronz érmet szerzett. Küzdelemben sajnos a döntőbe jutásnál belerohant
+            egy oldalsó rúgásba, ami a nyakát érte, és fel kellett adnia a harcot. Itt
+            is harmadik helyen vézgett.<br />Zrupkó-Várady Ádám legfiatalabb versenyzőnk,
+            már rutinosnak számít a gyerek kategóriában. -40 kg.ban indult, és látványos
+            akcióval teli mérkőzéseket vívott. A döntőben egy bírói hiba miatt az utolsó
+            pillanatban döntetlenre változott az állás, így 1 perc hosszabbítás következett,
+            amit Ádám magabiztosan meg is nyert. Így elhozhatta a Nemzetek kupáját</span><br
+            /><br /><br />\r\\n<p>Március végén megrendezésre került a IV. Spirit Open,
+            melyen<br />több, mint 300 versenyző vett részt, 7 ország képviselte magát.
+            Ebből 16 TIGRIS induló, akik összesen 8 arany, 2 ezüst, 6 bronz éremmel távoztak.<br
+            />Eredmények:<br />Küzdelem:<br />TAR BALÁZS - ARANY<span class=\"text_exposed_show\"><br
+            />FRANK KONRÁD - ARANY<br />SOMODI VIKTOR - ARANY<br />SOMODI MÁRK - ARANY<br
+            />ZRUPKÓ-VÁRADY ÁDÁM - ARANY<br />KEMÉNY GERGŐ - ARANY<br />PATAKI MARCELL
+            - ARANY<br />GAZSI GÁBOR - ARANY</span></p>\r\\n<div class=\"text_exposed_show\">\r\\n<p>SZŰCS
+            ÁDÁM - EZÜST<br />PÉCSI JÓZSEF - EZÜST</p>\r\\n<p>GAZSI GERGŐ - BRONZ<br />NAGY
+            ZSOMBOR - BRONZ<br />PÉCSI BENEDEK - BRONZ<br />SOMODI KÁLMÁN - BRONZ<br />SZŰCS
+            RICHÁRD - BRONZ</p>\r\\n<p>Forma:<br />TAR BALÁZS -BRONZ</p>\r\\n<p>Gratulálunk
+            mindenkinek a szép eredményekhez! </p>\r\\n</div>"
+    - rowNumber: 23
+      values:
+        - value: "2014-09-01 17:35:55.0"
+        - value: Változás!
+        - value:
+            "<p>Sziasztok! A Lőrincieknek szeptembertől változnak az edzések! Hétfő
+            marad küzdő edzés az Iskolában 18:00-tól 19:30-ig. Kettészedve lesznek a 14
+            év alatti, és felettiek a teremben.</p>\r\\n<p>A bázis technikai edzések szerda
+            Iskola HELYETT, 6 csoportra osztva a Havanna u. 3. szám alatt található termünkben
+            különböző időpontokban lesznek megtartva! <br /> Szerda:<br /> 16:30-18:00
+            Mini Tigris<br /> 18:00-19:30 Közép haladó <br /> Csütörtök:<span class=\"text_exposed_show\"><br
+            /> 16:30-18:00 Kezdő gyerek <br /> 18:00-19:30 Haladó <br /> Péntek:<br />
+            16:30-18:00 10.-9.gup<br /> 18:00-19:30 Szuper haladó<br /> A csoportok beosztása
+            a következő:<br /> </span></p>\r\\n<div class=\"text_exposed_show\">\r\\n<p>Szuper
+            haladó<br /> Leiti Edmond<br /> Jakab Norbi<br /> Schäfer Péter<br /> Tar
+            Balázs<br /> Horváth Gergő<br /> Kiss Viktor<br /> Höflinger Zsolt<br /> Epres
+            Barnus<br /> Gódor Julcsi<br /> Schäfer Anna<br /> Schäfer Liza<br /> Héni
+            Petra<br /> Kiss Enikő<br /> Orha Virág</p>\r\\n<p>Haladó<br /> Csáki István<br
+            /> Csáki Máté<br /> Epres Picúr<br /> Héni Kristóf<br /> Kökény Bence<br />
+            N-V Csenge<br /> Nagy-V. Bence<br /> Nász József<br /> Oláh Máté<br /> Bihari
+            Gábor<br /> Balla Levente<br /> Csonka Miklós<br /> Horváth Bálint<br /> Horváth
+            Zsolt<br /> <a class=\"profileLink\" href=\"https://www.facebook.com/jozsef.virag.967\">József
+            Virág</a><br /> Baranyai Réka<br /> Patkós Gábor<br /> Reider Patrícia<br
+            /> Liu Robin<br /> Martyin Bence</p>\r\\n<p>Közép haladó<br /> Hegyi Áron<br
+            /> Hegyi Márton<br /> Horvai Dániel<br /> Kovarik Zsombor<br /> Lovas Ádám<br
+            /> Néveri Béla<br /> Néveri Dávid<br /> Plavecz Natália<br /> Varga Ádám<br
+            /> Talján Pisti<br /> Mazug Martin<br /> Szűcs Ádám<br /> Szűcs Ricsi-Maya<br
+            /> Szűcs Niki</p>\r\\n<p>10-9 gup.<br /> Buday Norbert<br /> Budur Rebeka<br
+            /> Dóka Márk<br /> Talián István<br /> Talján Márton<br /> Turcsányi Róbert<br
+            /> Vajler Ádám<br /> Vajler Zsolt<br /> Várfalvi Döme<br /> Várfalvi Mira<br
+            /> Várfalvi Balázs<br /> Zerényi László<br /> Zrupkó-V. Ádám<br /> Zrupkó-V.
+            Dina</p>\r\\n<p>Mini Tigrisek:</p>\r\\n<p>Ambrus Judit<br /> Frank Konrád<br
+            /> Gazsi Gábor<br /> Gazsi Gergő<br /> Kemény Gergő<br /> Kovács Gábor<br
+            /> Nagy Zsombor<br /> Pécsi Benedek<br /> Pécsi József<br /> Somodi Márk<br
+            /> Somodi Viktor<br /> Szabó Balázs<br /> Szaniszló Gyuri<br /> Varga Marcell<br
+            /> Pécsi-Kincses Regina-alias: HahóPihe<br /> <a id=\"js_2\" class=\"profileLink\"
+            href=\"https://www.facebook.com/krisztina.kemenyneszentmiklosy\" >Keményné
+            Szentmiklósy</a> Kriszta<br /> Simi!</p>\r\\n<p>Kezdő<br /> ...</p>\r\\n<p>Az
+            edzés díja 7000.- forint/hó</p>\r\\n<p> </p>\r\\n<p>Az Ovis edzések a Kondor
+            Béla közösségi házban Hétfőn - Csütörtökön 16:30-17:30 ig lesznek!</p>\r\\n<p>A
+            csütörtöki edzést Anikó mester tartja. A havi 8 óra edzés díja változatlan
+            5000.- forint, amit a portán kell befizetni.</p>\r\\n</div>"
+    - rowNumber: 24
+      values:
+        - value: "2014-10-03 14:00:02.0"
+        - value: VI. EUROPEAN TAEKWON-DO CUP BUDAPEST
+        - value:
+            "Kedves Tigrisek, kedves Szurkolók!<br /><br />Mint azt már nagyon sokan
+            tudjátok, az idei évben Budapesten rendezik meg a VI. Európa Taekwon-do Kupát!
+            <br />Bízunk benne, hogy nagyon sokan eljöttök, és szurkoltok a résztvevőknek!
+            <br />Ne feledjétek!<br />\r\\n<h2>2014. OKTÓBER 10-12. <span style=\"font-size:
+            14px;\"><br />Pestszentimre, Sportkastély <br />Budapest, Kisfaludy u. 33
+            / C.</span></h2>\r\\n<p>Ott találkozunk! ;-)</p>\r\\n<p>Budapesti Tigrisek
+            SE</p>"
+    - rowNumber: 25
+      values:
+        - value: "2016-08-28 15:04:58.0"
+        - value: Ingyen edzések a XVIII. kerületi általános iskolásoknak
+        - value:
+            'Még mindig tart a pályázat! Várjuk továbbra is azon kerületi iskolások
+            jelentkezését, akik szeretnének csatlakozni hozzánk, és megfelelnek a pályázatban
+            leírt feltételeknek (kerületi lakos, legalább 4-es magatartási jegy). <br
+            />Olvasd el Goszták Evelin interjúját, melyből megtudhatod, miért lesz jó
+            neked, ha te is taekwondo-s leszel. ;-)<br /><a href="http://goo.gl/1FkHt4"
+            target="_blank">Sportágválasztó Blog - Goszták Evelin</a><br /><br />Pályázat
+            letölthető: <a href="../doc/palyazat.doc">IDE KATTINTVA!</a><br /><br /><br
+            /><br />'
+    - rowNumber: 26
+      values:
+        - value: "2015-01-17 12:58:37.0"
+        - value: TIGRISEK AZ EURÓPA KUPÁN (2014. október 10-12. - Sportkastély)
+        - value:
+            "<p style=\"text-align: center;\"><a href=\"http://hahopihe.receptneked.hu/wp-content/uploads/2014/10/1528535_601413893264442_71206052_n1.jpg\"><img
+            class=\"alignnone size-medium wp-image-3652\" src=\"http://hahopihe.receptneked.hu/wp-content/uploads/2014/10/1528535_601413893264442_71206052_n1-300x111.jpg\"
+            alt=\"1528535_601413893264442_71206052_n\" width=\"300\" height=\"111\" /></a></p>\r\\n<p
+            style=\"text-align: center;\"><span style=\"color: #993300;\"><em>“A folyó
+            és a szikla összecsapásából mindig a folyó kerül ki győztesen – de nem az
+            erejének,<br /> hanem a kitartásának köszönhetően!” (<strong>H. Jackson Brown</strong>)</em></span></p>\r\\n<p
+            style=\"text-align: center;\"><a href=\"http://hahopihe.receptneked.hu/wp-content/uploads/2014/10/10711059_736487023066733_3428579664650068558_n.jpg\"><img
+            class=\"alignnone size-medium wp-image-3640\" src=\"http://hahopihe.receptneked.hu/wp-content/uploads/2014/10/10711059_736487023066733_3428579664650068558_n-300x180.jpg\"
+            alt=\"10711059_736487023066733_3428579664650068558_n\" width=\"300\" height=\"180\"
+            /></a></p>\r\\n<p>Vége… Idén, 2014-ben Budapesten rendezték meg a VI. ITF
+            Európa Kupát a Sportkastélyban. Vasárnap véget ért az a verseny, amit annyira
+            vártunk, amire annyit készültek a versenyzőink. 29 ország, 72 csapat, 617
+            versenyző állt tatamira és küzdött meg egymással formagyakorlat, csapat formagyakorlat,
+            egyéni küzdelem, csapat küzdelem és tradicionális küzdelem versenyszámokban.
+            Egy ekkora nemzetközi versenyen részt venni már önmagában is óriási teljesítmény.
+            A versenyzők tapasztalatot szerezhetnek, kipróbálhatják magukat, tesztelik
+            tudásukat, erejüket, hogy egy következő versenyen mindezt kamatoztatva még
+            jobbak legyenek.</p>\r\\n<p>Nagyon büszkék vagyunk rájuk. Egytől egyig mindenkire.
+            Azokra is, akik most még nem szereztek érmet, mert ki mertek állni egy ilyen
+            erős nemzetközi mezőnyben. Ha minden ellenfelet nem is, de önmagukat sikerült
+            legyőzniük.</p>\r\\n<p style=\"text-align: center;\"><span style=\"color:
+            #993300;\"><em>“Tanulj meg mosolyogni. A mosolyban mágikus erő rejlik. </em></span><br
+            /> <em><span style=\"color: #993300;\">Amíg az ember mosolyogni tud, addig
+            képes a további harcra. És aki harcol, az győzhet is.</span><span style=\"color:
+            #800000;\">“</span></em></p>\r\\n<p> </p>\r\\n<p style=\"text-align: center;\">A
+            végeredmény pedig önmagáért beszél, jöjjön tehát az éremeső!</p>\r\\n<p style=\"text-align:
+            center;\"><a href=\"http://hahopihe.receptneked.hu/wp-content/uploads/2014/10/1521830_737827172932718_4126910878873619457_n.jpg\"><img
+            class=\"alignnone size-full wp-image-3653\" src=\"http://hahopihe.receptneked.hu/wp-content/uploads/2014/10/1521830_737827172932718_4126910878873619457_n.jpg\"
+            alt=\"1521830_737827172932718_4126910878873619457_n\" width=\"480\" height=\"360\"
+            /></a></p>\r\\n<p> </p>\r\\n<p style=\"text-align: center;\"><em><strong><span
+            style=\"color: #ff0000;\">Felnőtt nők:</span></strong></em><br /> <strong><span
+            style=\"color: #ff0000;\"> Gódor Julianna – 2 arany, 1 ezüst</span></strong><br
+            /> <strong><span style=\"color: #ff0000;\"> Héni Petra – 2 arany</span></strong></p>\r\\n<p
+            style=\"text-align: center;\"><em><strong><span style=\"color: #ff0000;\">Ifi
+            lányok:</span></strong></em><br /> <strong><span style=\"color: #ff0000;\">
+            Orha Virág – 3 bronz</span></strong><br /> <strong><span style=\"color: #ff0000;\">
+            Shcäfer Anna – 2 bronz</span></strong><br /> <strong><span style=\"color:
+            #ff0000;\"> Schäfer Liza – 2 bronz</span></strong></p>\r\\n<p style=\"text-align:
+            center;\"><em><strong><span style=\"color: #ff0000;\">Ifi fiú</span></strong></em><br
+            /> <strong><span style=\"color: #ff0000;\"> Tar Balázs – 2 bronz</span></strong></p>\r\\n<p> </p>\r\\n<p
+            style=\"text-align: center;\"><strong><span style=\"color: #ff0000;\">Szívből
+            gratulálunk Nekik! <img class=\"wp-smiley\" src=\"http://hahopihe.receptneked.hu/wp-includes/images/smilies/icon_wink.gif\"
+            alt=\";)\" /></span></strong></p>\r\\n<p>Ha pedig érdekel egy kis betekintő
+            a versenybe, olvass tovább…</p>\r\\n<p><strong>Péntek (október 10.)</strong>
+            Ezen a napon rendezték meg a gyermek versenyt, a 10-14 év közötti korosztály
+            részére. Noha éremre ezen a napon nem tettek szert a Tigrisek, igazi harcosként
+            küzdöttek egytől egyig.</p>\r\\n<p><span style=\"color: #339966;\"><strong>Nagy-Varga
+            Bence</strong></span> szuper formagyakorlatot mutatott be, szinte tökéletes
+            volt, azonban egy apró ütemhiba miatt sajnos nem tudott továbbjutni, mivel
+            az ellenfele is jónak bizonyult. Küzdelemből az első helyezettel kezdett,
+            az ellenfél nagyon kemény volt. Nagyon nehéz küzdelmet láthattunk, de Bence
+            apait-anyait beleadott! Bence ne csüggedj, szuper voltál, és legközelebb sikerülni
+            fog!</p>\r\\n<p style=\"text-align: center;\"><a href=\"http://hahopihe.receptneked.hu/wp-content/uploads/2014/10/10669193_719598681451338_6691936813099298756_o.jpg\"><img
+            class=\"alignnone size-medium wp-image-3641\" src=\"http://hahopihe.receptneked.hu/wp-content/uploads/2014/10/10669193_719598681451338_6691936813099298756_o-297x300.jpg\"
+            alt=\"10669193_719598681451338_6691936813099298756_o\" width=\"297\" height=\"300\"
+            /></a><br /> <em>Bencén az izgalom csepp tünete sem látszott <img class=\"wp-smiley\"
+            src=\"http://hahopihe.receptneked.hu/wp-includes/images/smilies/icon_smile.gif\"
+            alt=\":)\" /></em></p>\r\\n<p><span style=\"color: #339966;\"><span style=\"color:
+            #000000;\"><span style=\"color: #339966;\"><strong>Csonka Miki </strong><span
+            style=\"color: #000000;\">formában nyeréssel indult, nagyon szépen teljesített,
+            később azonban kiesett, nem sikerült éremig vinnie. Küzdelemben rendkívül
+            ügyes volt, első mérkőzése egy FEKETE övessel volt, és Miki megnyerte a meccset!
+            Úgyhogy kis Tigrisek, ne feledjétek, hogy az öv színe semmit nem jelent. Bárkit
+            legyőzhetsz, csak hinned kell benne! Másik meccsét sajnos elvesztette, így
+            ő sem szerzett érmet.<br /> </span></span></span></span></p>\r\\n<p style=\"text-align:
+            center;\"><a href=\"http://hahopihe.receptneked.hu/wp-content/uploads/2014/10/1487867_719597988118074_8982766650459619215_o.jpg\"><img
+            class=\"alignnone size-medium wp-image-3642\" src=\"http://hahopihe.receptneked.hu/wp-content/uploads/2014/10/1487867_719597988118074_8982766650459619215_o-200x300.jpg\"
+            alt=\"1487867_719597988118074_8982766650459619215_o\" width=\"200\" height=\"300\"
+            /></a><br /> <em>A Tigris, aki legyőzött egy fekete övest…</em></p>\r\\n<p> <span
+            style=\"color: #339966;\"><strong>Csáki Máté</strong></span> szintén remekül
+            bizonyított a páston formagyakorlat versenyszámban, de az éremig nem jutott
+            el. Küzdelemben egy ír fekete övessel került össze, aki egy fejjel magasabb
+            volt nála, és láthatóan rutinos versenyző volt. A rutin pedig fontos, és minél
+            több versenyen vesztek részt Tigrisek, annál rutinosabbak lesztek ti is! Máté,
+            legközelebb megcsinálod!</p>\r\\n<p style=\"text-align: center;\">  <a href=\"http://hahopihe.receptneked.hu/wp-content/uploads/2014/10/10690227_719598364784703_4761343044271479667_n.jpg\"><img
+            class=\"alignnone size-medium wp-image-3643\" src=\"http://hahopihe.receptneked.hu/wp-content/uploads/2014/10/10690227_719598364784703_4761343044271479667_n-300x200.jpg\"
+            alt=\"10690227_719598364784703_4761343044271479667_n\" width=\"300\" height=\"200\"
+            /></a><br /> <em>A mindenre elszánt Máté…</em></p>\r\\n<p><span style=\"color:
+            #339966;\"><strong>Nász Józsi – </strong><span style=\"color: #000000;\">remek
+            formagyakorlatot láthattunk tőle, azonban érmet szerezni neki sem sikerült.
+            A küzdelmet fejben kissé feladta, ezért majd még leharapjuk a fejét, de nagyon
+            büszkék vagyunk rá, hogy kiállt. Nem csüggedünk, a következő versenyen megmutatja,
+            hogy kell ezt csinálni!<strong><br /> </strong></span></span></p>\r\\n<p style=\"text-align:
+            center;\"><a href=\"http://hahopihe.receptneked.hu/wp-content/uploads/2014/10/10694336_719598138118059_6279820404348737870_o.jpg\"><img
+            class=\"alignnone size-medium wp-image-3644\" src=\"http://hahopihe.receptneked.hu/wp-content/uploads/2014/10/10694336_719598138118059_6279820404348737870_o-200x300.jpg\"
+            alt=\"10694336_719598138118059_6279820404348737870_o\" width=\"200\" height=\"300\"
+            /></a><br /> <em>Józsi egyelőre csak keksszel gyakorol, de ami késik, nem
+            múlik…</em></p>\r\\n<p style=\"text-align: center;\"><a href=\"http://hahopihe.receptneked.hu/wp-content/uploads/2014/10/10376141_719594741451732_5355000704087982774_n.jpg\"><img
+            class=\"alignnone size-medium wp-image-3660\" src=\"http://hahopihe.receptneked.hu/wp-content/uploads/2014/10/10376141_719594741451732_5355000704087982774_n-300x200.jpg\"
+            alt=\"10376141_719594741451732_5355000704087982774_n\" width=\"300\" height=\"200\"
+            /></a></p>\r\\n<p> </p>\r\\n<p><strong>Szombat (október 11.)</strong></p>\r\\n<p><span
+            style=\"color: #339966;\"><strong>Schäfer Liza</strong></span> – Pénteken
+            még némi izgalomra adott okot, hogy 1 órán belül Lizának 20 dkg-ot le kellett
+            adnia ahhoz, hogy versenybe szállhasson. Anikó mesternek, a tűző napnak, néhány
+            kabátnak, egy kis ugrálásnak, illetve Liza kitartásának és persze egy citromnak
+            köszönhetően alig 40 perc alatt a háromszorosát is lefaragták! <img class=\"wp-smiley\"
+            src=\"http://hahopihe.receptneked.hu/wp-includes/images/smilies/icon_smile.gif\"
+            alt=\":-)\" /><br /> Egyéni küzdelme az első félidőben picit nehezen indult,
+            másodikra nagyon felpörgött a leányzó, de nem tudta már maga felé billenteni
+            a mérleget. Formában sem sikerült dobogóra állni ezen a napon.</p>\r\\n<a
+            href=\"http://hahopihe.receptneked.hu/wp-content/uploads/2014/10/10714465_719599974784542_3154802429336652883_o.jpg\"><img
+            class=\"size-medium wp-image-3656 aligncenter\" style=\"display: block; margin-left:
+            auto; margin-right: auto;\" src=\"http://hahopihe.receptneked.hu/wp-content/uploads/2014/10/10714465_719599974784542_3154802429336652883_o-200x300.jpg\"
+            alt=\"10714465_719599974784542_3154802429336652883_o\" width=\"200\" height=\"300\"
+            /></a>\r\\n<p><strong><span style=\"color: #339966;\">Pataki Krisztiánnak</span></strong>
+            egyéni formagyakorlatban egy apró hiba miatt nem sikerült bejutnia a 8 közé.</p>\r\\n<p><span
+            style=\"color: #000000;\"><span style=\"color: #339966;\"><strong>Orha Virág</strong></span>
+            formagyakorlatban remekül indult, sikerült bejutnia a 8 közé, de dobogós helyezést
+            már sajnos nem szerzett. Küzdelemben legyőzött egy olasz lányt, ezzel megszerezte
+            az Európa Kupa első Tigrises érmét. Szuper jó meccs volt, rengeteg fejrúgással.
+            Döntőbe jutásnál nem sikerült legyőzni a bolgár ellenfelét, de nem adta könnyen
+            neki a meccset, csak hosszabbításban tudott nyerni. <span style=\"color: #000000;\">Ügyes
+            voltál Virág! </span><br /> </span></p>\r\\n<p style=\"text-align: center;\"><a
+            href=\"http://hahopihe.receptneked.hu/wp-content/uploads/2014/10/DSCF3221.jpg\"><img
+            class=\"alignnone size-medium wp-image-3661\" src=\"http://hahopihe.receptneked.hu/wp-content/uploads/2014/10/DSCF3221-300x225.jpg\"
+            alt=\"DSCF3221\" width=\"300\" height=\"225\" /></a><br /> <em>Ügyes voltál
+            Virág!</em></p>\r\\n<p style=\"text-align: center;\"><a href=\"http://hahopihe.receptneked.hu/wp-content/uploads/2014/10/DSCF3223.jpg\"><img
+            class=\"alignnone size-medium wp-image-3674\" src=\"http://hahopihe.receptneked.hu/wp-content/uploads/2014/10/DSCF3223-300x225.jpg\"
+            alt=\"DSCF3223\" width=\"300\" height=\"225\" /></a></p>\r\\n<p><span style=\"color:
+            #339966;\"><strong>Tar Balázs</strong></span> formában fejben és testben is
+            egyaránt ott volt, szépen nyerte a meccseit, aztán egyszer csak kiejtették,
+            a mai napig nem tudjuk, hogy miért <img class=\"wp-smiley\" src=\"http://hahopihe.receptneked.hu/wp-includes/images/smilies/icon_sad.gif\"
+            alt=\":(\" /> 77 versenyzőből a 16 közé jutott. Szép volt Balázs!<br /> Küzdelemben
+            az első meccsét simán megnyerte, második ugyan szoros volt, de végül alulmaradt.
+            Gyönyörű küzdelmeket láttunk tőle, büszkék vagyunk!</p>\r\\n<p style=\"text-align:
+            center;\"><a href=\"http://hahopihe.receptneked.hu/wp-content/uploads/2014/10/1959228_857320310969255_2111603187280305612_n.jpg\"><img
+            class=\"alignnone size-medium wp-image-3691\" src=\"http://hahopihe.receptneked.hu/wp-content/uploads/2014/10/1959228_857320310969255_2111603187280305612_n-300x225.jpg\"
+            alt=\"1959228_857320310969255_2111603187280305612_n\" width=\"300\" height=\"225\"
+            /></a></p>\r\\n<p><span style=\"color: #339966;\"><strong> </strong></span></p>\r\\n<p><strong>Vasárnap
+            (október 12.)</strong></p>\r\\n<p><strong><span style=\"color: #339966;\">Gódor
+            Julianna</span></strong> formájába egy kis malőr csúszott, így sajnos kiesett.
+            Küzdelem versenyszámban nagyon szépen szerepelt, a döntő mérkőzésben maximálisan
+            odatette magát. Az aranyéremre ugyan nem volt elég, de az <span style=\"color:
+            #000000;\">ezüst </span>is nagyon szépen csillog! Szép volt Juli!</p>\r\\n<p
+            style=\"text-align: center;\"><a href=\"http://hahopihe.receptneked.hu/wp-content/uploads/2014/10/10696281_4723697666836_977538059773920428_n.jpg\"><img
+            class=\"alignnone size-medium wp-image-3659\" src=\"http://hahopihe.receptneked.hu/wp-content/uploads/2014/10/10696281_4723697666836_977538059773920428_n-224x300.jpg\"
+            alt=\"10696281_4723697666836_977538059773920428_n\" width=\"224\" height=\"300\"
+            /></a><a href=\"http://hahopihe.receptneked.hu/wp-content/uploads/2014/10/10696281_4723697666836_977538059773920428_n.jpg\"><br
+            /> </a><em>Juli megcsináltad!</em></p>\r\\n<p><span style=\"color: #339966;\"><strong>Héni
+            Petra</strong></span> női formában messze a mezőny egyik legjobb versenyzője
+            volt. Minimális hiba miatt azonban kiejtették. Sajnáljuk Petra, mert megérdemelted
+            volna, hogy dobogóra állj!</p>\r\\n<p style=\"text-align: center;\"><a href=\"http://hahopihe.receptneked.hu/wp-content/uploads/2014/10/unnamed.jpg\"><img
+            class=\"alignnone size-medium wp-image-3692\" src=\"http://hahopihe.receptneked.hu/wp-content/uploads/2014/10/unnamed-300x168.jpg\"
+            alt=\"unnamed\" width=\"300\" height=\"168\" /></a></p>\r\\n<p><span style=\"color:
+            #339966;\"><strong>Schäfer Annától </strong><span style=\"color: #000000;\">dinamikus
+            formagyakorlatot láthattunk, rendkívül ügyes volt. Küzdelemben saját magát
+            abszolút felülmúlta, annak ellenére, hogy egy rutinosabb, és igen kemény ellenfél
+            jutott neki, nem ijedt meg, nem hátrált, és egyszer sem fordult ki. Szép volt
+            Anna!<strong><br /> </strong></span></span></p>\r\\n<p style=\"text-align:
+            center;\"><a href=\"http://hahopihe.receptneked.hu/wp-content/uploads/2014/10/1898250_737826816266087_4108701772209088050_n.jpg\"><img
+            class=\"alignnone size-full wp-image-3697\" src=\"http://hahopihe.receptneked.hu/wp-content/uploads/2014/10/1898250_737826816266087_4108701772209088050_n.jpg\"
+            alt=\"1898250_737826816266087_4108701772209088050_n\" width=\"480\" height=\"360\"
+            /></a></p>\r\\n<p><strong><span style=\"color: #339966;\">Ifi csapat </span></strong><span
+            style=\"color: #000000;\">formagyakorlat</span> versenyszámban 3 résztvevő
+            a Tigrisek csapatából került ki. Döntőbe jutásnál a lányok nagyon ügyesek
+            voltak, de a párbajt ezúttal a lengyelek nyerték. Csapatküzdelemben <span
+            style=\"color: #339966;\"><strong>Schäfer Anna, Schäfer Liza és Orha Virág</strong></span>
+            is nagyon szép meccset játszott a szintén lengyel csapat ellen. Összesítve
+            nagyon minimálissal ugyan alulmaradtak, de a dobogó harmadik fokára így is
+            felállhattak. Ügyesek voltatok lányok!</p>\r\\n<p><strong><span style=\"color:
+            #339966;\">Felnőtt női csapatunknak </span></strong>sem küzdelemben, sem formában
+            nem akadt ellenfele, a lányok jöttek, láttak, győztek. Újabb 2 aranyérmet
+            zsebelhettünk be! A Tigrisek közül <span style=\"color: #339966;\"><strong>Gódor
+            Julianna és Héni Petra</strong></span> képviselte a csapatot.</p>\r\\n<p style=\"text-align:
+            center;\"><em>Szép volt lányok!</em></p>\r\\n<p> </p>\r\\n<p style=\"text-align:
+            center;\"><a href=\"http://hahopihe.receptneked.hu/wp-content/uploads/2014/10/DSCF3247.jpg\"><img
+            class=\"alignnone size-large wp-image-3646\" src=\"http://hahopihe.receptneked.hu/wp-content/uploads/2014/10/DSCF3247-600x450.jpg\"
+            alt=\"DSCF3247\" width=\"600\" height=\"450\" /></a><br /> <em>Pataki Krisztián
+            IV. dan mester és Szász Péter V. dan mester</em></p>\r\\n<p><strong><span
+            style=\"color: #339966;\">Pataki Krisztián Szász Péterrel</span></strong>
+            indult tradicionális küzdelem versenyszámban. 8 közé mérkőzésnél a görögök
+            ellen lazán nyertek, majd az olaszokkal kerültek össze. Laikus nézőként is
+            váratlan volt a döntéshozatal, miszerint a páros kiesett. Fantasztikus bemutatót
+            láthattunk, a közönség óriási tapsviharban tört ki.<br /> A bírók hosszasan
+            tanakodtak, mivel nem sikerült megegyezésre jutni. Majd megszületett a végleges
+            döntés, mely alapján az olasz párost juttatták tovább. Mindenki számára érthetetlen,
+            hogy miért, a magyarok ebben a versenyszámban messzemenően jobbnak bizonyultak
+            ellenfelüknél. A tömeg hatalmas zúgolódásba kezdett…</p>\r\\n<p style=\"text-align:
+            center;\"><a href=\"http://hahopihe.receptneked.hu/wp-content/uploads/2014/10/DSCF3230.jpg\"><img
+            class=\"alignnone size-medium wp-image-3663\" src=\"http://hahopihe.receptneked.hu/wp-content/uploads/2014/10/DSCF3230-300x225.jpg\"
+            alt=\"DSCF3230\" width=\"300\" height=\"225\" /></a></p>\r\\n<p><strong><span
+            style=\"color: #339966;\">Felnőtt férfi csapatküzdelem.</span></strong> A
+            sors úgy hozta, hogy a csapatból 2 fő visszalépett, így pusztán négyen álltak
+            pástra az olaszok ellen. Fergeteges küzdelmeket láthattunk, az első 2 kört
+            a magyarok, a harmadikat az olaszok nyerték, negyedikként <strong><span style=\"color:
+            #339966;\">Pataki Krisztián</span></strong> küzdött. Laza mozdulatokkal, elhajlásokkal,
+            gyönyörűen bevitt találatokkal a legprofibb módon elverte (és fel is bosszantotta)
+            olasz ellenfelét, ezzel a csapat bejutott a legjobb 8 közé. A következő mérkőzésre
+            sérülés végett már csak 3-an tudtak pástra állni a világbajnok lengyelekkel
+            szemben, ahol az első mérkőzést elvesztették, így a magyar csapat nem jutott
+            tovább.</p>\r\\n<p style=\"text-align: center;\"><a href=\"http://hahopihe.receptneked.hu/wp-content/uploads/2014/10/DSCF3326.jpg\"><img
+            class=\"alignnone size-medium wp-image-3676\" src=\"http://hahopihe.receptneked.hu/wp-content/uploads/2014/10/DSCF3326-300x225.jpg\"
+            alt=\"DSCF3326\" width=\"300\" height=\"225\" /></a></p>\r\\n<p>Összességében
+            fantasztikus 3 napot tudhat maga mögött minden versenyző, edző és néző is.
+            Személy szerint sajnálom, hogy nem tudtam minden egyes meccset végignézni,
+            de egy ekkora kaliberű versenyen ez gyakorlatilag képtelenség. Nagyon büszkék
+            vagyunk minden résztvevőre, már csak azért is, hogy ki mertek állni, és vállalták
+            a küzdelmet, a megmérettetést, legyőzve ezzel saját félelmeiket (már ha van
+            neki). Külön köszönetet érdemel a Tigrisek mindkét edzője – Pataki Krisztián
+            és Patakiné Zs. Anikó –  akik rengeteg munkával, fáradtságot nem ismerve készítették
+            fel a versenyzőiket, drukkoltak nekik, támogatták őket. Még sok ilyen szuper
+            versenyt kívánok mindenkinek, mi nézőként jól éreztük magunkat! <img class=\"wp-smiley\"
+            src=\"http://hahopihe.receptneked.hu/wp-includes/images/smilies/icon_wink.gif\"
+            alt=\";)\" /></p>\r\\n<p style=\"text-align: center;\">*** Köszönjük! ***</p>\r\\n<p
+            style=\"text-align: center;\"><a href=\"http://hahopihe.receptneked.hu/wp-content/uploads/2014/10/311128_433389766709795_1745698473_n.jpg\"><img
+            class=\"alignnone size-medium wp-image-3700\" src=\"http://hahopihe.receptneked.hu/wp-content/uploads/2014/10/311128_433389766709795_1745698473_n-300x300.jpg\"
+            alt=\"311128_433389766709795_1745698473_n\" width=\"300\" height=\"300\" /></a></p>\r\\n<p> </p>\r\\n<p
+            style=\"text-align: center;\"><span style=\"color: #800000;\"><em>“A történelem
+            bebizonyította, hogy a legnevezetesebb győztesek rendszerint<br /> nyomasztó
+            nehézségekkel kerültek szembe, mielőtt teljes diadalt arattak.<br /> Győzelmük
+            titka az, hogy sohasem szegte kedvüket a vereség.” (<strong>B. C. Forbes</strong>)</em></span></p>"
+    - rowNumber: 27
+      values:
+        - value: "2015-06-15 12:06:08.0"
+        - value: Nyár van!
+        - value:
+            '<span>Sziasztok! Nyári edzések...<br /><img style="float: right;" src="http://www.bokaytabor.eoldal.hu/img/mid/7/52589_1182402698194_1772033912_345345_5794304_o.jpg"
+            alt="" width="309" height="460" /></span><br /><span>Június 15.-én 17 órakkor
+            alacsonyöves vizsga a Kondor Béla Általános iskolában.</span><br /><span>Ezt
+            követően az edzések a következő képpen folytatódnak:</span><br /><span>Nagyoknak:
+            Hétfőn 18:00- Tigers Gym, Szerdán-Pénteken 18:00-Bókay kert.</span><br /><span>Kicsiknek:
+            Hétfő- csütörtök 16:30-18:00 is Tigers Gym. </span><span class="text_exposed_show"><br
+            />Tehát nyáron 2 csortban edzünk, és mindenki eldöntheti, hogy melyikben kíván
+            edzeni. Augusztus 21-25-ig lesz az edzőtábor! Az előlegeket júniusban kérjük
+            behozni!<br /></span>'
+    - rowNumber: 28
+      values:
+        - value: "2015-06-15 11:55:38.0"
+        - value: Bókay kert napközis-Harcművész tábor
+        - value:
+            "<p>Az idén is lesz Harcművészet a Bókay kerti napközis táborban!</p>\r\\n<p>A
+            Bókay Kertben tartalmas programokkal tölthetik a diákok a szünidőt<br />Megoldás
+            a vakációs gondokra</p>\r\\n<div class=\"text_exposed_show\">\r\\n<p>Hamarosan
+            itt a vakáció! A nyári szünet öröm a diáknak, azonban a szülőknek számos megoldandó
+            problémát jelent. Számos kisiskolásnak a napközis tábor jelenti a nyaralást,
+            a szülőknek pedig megnyugvást, hogy biztonságban tudhatják gyermeküket. A
+            kerület a Bókay-kertben biztosítja a napközis ellátást, mely a főváros egyik
+            legjobb adottságú tábora.</p>\r\\n<p>– Azoknak a szülőknek, akik kora reggel
+            indulnak munkahelyükre, segítség lehet, hogy a táborozás ideje alatt reggel
+            6-8 óráig a tábor Szélmalom utcai kapujánál ügyelet van. A foglakozások 8
+            órakor kezdődnek, és 16.30 óráig tartanak. A szülőknek nem kell aggódniuk,
+            hogy gyermekük a forgalmas Petőfi Sándor utcán átjut-e szerencsésen, mert
+            a korábbi gyakorlatnak megfelelően a 182, 184, 282E és 183 buszjáratok Varjú
+            utcai megállójában reggel 6.45-7.45 óra között pedagógus fogadja a gyerekeket,
+            és táborozás után ide is kíséri vissza őket.</p>\r\\n<p>Több mint gyermekmegőrző</p>\r\\n<p>–
+            Nem gyermekmegőrzés a cél, hanem, hogy szebbé, emlékezetesebbé váljon azoknak
+            a nyaralása, akiknek a szülei ezt nem engedhetik meg maguknak – mondta Kuba
+            Gábor táborvezető, az Eötvös Loránd Általános Iskola igazgatója. <br />A tábori
+            élet átlag 20 fős csoportokban vagy másként rajokban zajlik, lehetőleg azonos
+            iskola, érdeklődés és életkor szerint. A rajvezetők szakképzett pedagógusok. <br
+            />A táborozók háromszori étkezést kapnak. A napközis tábor hagyományos foglalkozásain
+            a gyerekek részt vehetnek a különböző báb, bűvész, zenés előadásokon, autóbuszos-
+            és hajókirándulásokon, kézműves foglalkozásokon, valamint tábori sport és
+            egyéb versenyeken. A hagyományos rajok mellett szakképzett oktatók által vezetett
+            szakrajokra is lehet jelentkezni. Ebben az esetben be kell fizetni a szakrajok
+            költségét is.</p>\r\\n<p>A harcművész raj 5 héten át elérhető a nyár folyamán:<br
+            />-<br />06. 29.-07. 03.<br />-<br />07. 13.-07. 17.<br />07. 20.-07. 24.<br
+            />07. 27.-07. 31.<br />-<br />08. 10.-08. 14.<br />-<br />Az edzéseket Pataki
+            Krisztián 5.danos nemzetközi Mester tartja.<br />Heti 5x1.5óra edzés díjja
+            az étkezésen felül 3000.- ft.<img src=\"http://www.bokaytabor.eoldal.hu/fenykepek/vegyes-kepek/bokay.-.html\"
+            alt=\"\" /></p>\r\\n</div>"
+    - rowNumber: 29
+      values:
+        - value: "2016-08-28 15:28:40.0"
+        - value: Tagfelvétel
+        - value:
+            "<p style=\"text-align: left;\" align=\"center\"><span style=\"font-size:
+            large;\"><strong><span style=\"font-size: xx-large;\"> ITF Taekwondo edzések!</span><br
+            /></strong></span><br /><span style=\"font-size: large;\"><strong>Látványos
+            koreai harcművészet. </strong></span></p>\r\\n<p style=\"text-align: left;\"
+            align=\"center\"><strong>Jó hangulatú edzések, versenyek, övvizsgák, edzőtáborok,
+            aktív klubélet.</strong></p>\r\\n<p style=\"text-align: left;\" align=\"center\"><strong>
+            Örömmel tudatom VELED, hogy kezdő taekwon-do edzés indul, </strong></p>\r\\n<p
+            style=\"text-align: left;\" align=\"center\"><strong>a Budapesti Tigrisek
+            SE szervezésében, ahonnan már csak TE hiányzol.</strong><strong><br /> <br
+            /> </strong></p>\r\\n<p style=\"text-align: left;\"><strong><em><span style=\"text-decoration:
+            underline;\">Edzések:</span></em></strong></p>\r\\n<p style=\"text-align:
+            left;\"><strong><em>Hétfőn</em></strong><strong>: 18:00-19:30</strong></p>\r\\n<p
+            style=\"text-align: left;\"><strong>Kondor Béla Általános Iskolában.</strong></p>\r\\n<p
+            style=\"text-align: left;\"><strong><em>Pénteken</em></strong><strong>: 16:30-18:00
+            </strong></p>\r\\n<p style=\"text-align: left;\"><strong>TIGERS GYM Havanna
+            u. 3.</strong></p>\r\\n<p style=\"text-align: left;\"><strong> </strong></p>\r\\n<p
+            style=\"text-align: left;\"><strong><em><span style=\"text-decoration: underline;\">ÚJ
+            OVIS EDZÉSEK</span></em></strong><strong><span style=\"text-decoration: underline;\">
+            4 ÉVES KORTÓL<em>:</em></span></strong></p>\r\\n<p style=\"text-align: left;\"><strong><br
+            /> </strong><strong><em>Hétfő, csütörtök:</em></strong><strong> 16:30-17:30-ig.</strong></p>\r\\n<p
+            style=\"text-align: left;\"><strong>Kondor Béla Művelődési házban.<br /> <br
+            /></strong><strong>       </strong></p>\r\\n<p style=\"text-align: left;\"
+            align=\"center\"><strong>Vezetőedző: Pataki Krisztián V.dan </strong></p>\r\\n<p
+            style=\"text-align: left;\" align=\"center\"><strong>többszörös Taekwon-do
+            és Kick-Box Európa bajnok.</strong></p>\r\\n<p style=\"text-align: left;\"><strong>Világbajnoki
+            bronzérmes.                             <br /> <br /> </strong></p>\r\\n<p
+            style=\"text-align: left;\" align=\"center\"><strong>Az első edzés ingyenes,
+            gyere el és próbáld ki!</strong></p>\r\\n<p style=\"text-align: left;\" align=\"center\"><strong>Az
+            edzésekről további információt találsz a</strong></p>\r\\n<p style=\"text-align:
+            left;\" align=\"center\"><strong> </strong><strong><a href=\"../\">http://tigrisek.hu</a></strong><strong>
+            </strong><strong>honlapon,</strong></p>\r\\n<p style=\"text-align: left;\"
+            align=\"center\"> </p>\r\\n<p style=\"text-align: left;\" align=\"center\"><strong>vagy
+            a </strong><strong>06/70 941 5992</strong><strong> telefonszámon.</strong></p>"
+    - rowNumber: 30
+      values:
+        - value: "2015-09-03 00:08:45.0"
+        - value: Változás Lőrincen!
+        - value:
+            "<p>Sziasztok! A Lőrincieknek szeptembertől változnak az edzések! Hétfő
+            marad küzdő edzés az Iskolában 18:00-tól 19:30-ig. Kettészedve lesznek a 14
+            év alatti, és felettiek a teremben.</p>\r\\n<p>A bázis technikai edzések,
+            6 csoportra osztva a Havanna u. 3. szám alatt található termünkben különböző
+            időpontokban lesznek megtartva! <a href=\"https://www.facebook.com/tigristerem?fref=ts\">Tigers
+            Gym</a><br />Szerda:<br />16:30-18:00 vizsgázott fehér öv - sárga csíkosok<br
+            />18:00-19:30 Sárga övesek <br />Csütörtök:<span class=\"text_exposed_show\"><br
+            />18:00-19:30 Zöld csíktól kék csíkig <br />Péntek:<br />16:30-18:00 Kezdő
+            gyerek<br />18:00-19:30 Kék övtől 3.dan-ig.<br /><br /></span></p>\r\\n<p>Az
+            Ovis edzések továbbra is a Kondor Béla közösségi házban Hétfőn - Csütörtökön
+            16:30-17:30 ig lesznek!</p>\r\\n<p>A csütörtöki edzést Anikó mester tartja.
+            A havi 8 óra edzés díja változatlan 5000.- forint, amit a portán kell befizetni.</p>"
+    - rowNumber: 31
+      values:
+        - value: "2016-04-07 14:40:58.0"
+        - value: 5. Spirit Open
+        - value:
+            "<p>Üdv Mindenkinek!</p>\r\\n<p>Április 2-án megrendezésre került az
+            5. Spirit Open - nyílt Nemzetközi Taekwon-do verseny.<br /> 6 ország, 36 klub,
+            több mint 400 versenyző indult a versenyen. Igen jól szervezet pörgős verseny
+            volt. Nagyon sok remek technikát láthattunk ami bizonyította a versenyzők
+            felkészültségét.<br /> A Tigrisek is toppon voltak ám, nagyon sok érmet hoztunk
+            haza.<span class=\"text_exposed_show\"><br /> Ezenkívül sok sok tapasztalatot
+            gyűjtöttünk ami jól jön a Világkupa októberi felkészüléseinkhez.</span></p>\r\\n<p><span
+            class=\"text_exposed_show\"><br /></span></p>\r\\n<p><span class=\"text_exposed_show\">
+            Íme az eredmények: 6 arany, 9 ezüst, 9 bronz</span></p>\r\\n<div class=\"text_exposed_show\">\r\\n<p>Arany:<br
+            /> Szép-Magyar Izabella küzd<br /> Pécsi Benedek küzd.<br /> Pataki Marcell
+            küzd.<br /> Somodi Viktor küzd.<br /> Ferencz Botond küzd.<br /> Dányi Leonetta
+            formagyakorlat</p>\r\\n<p>Ezüst: <br /> Pataki Aida küzd.<br /> Ferencz Orsolya
+            küzd.<br /> Lovassy Levente küzd.<br /> Dancs Erik küzd.<br /> Szűcs Ádi küzd.<br
+            /> Gyevi-Tóth Benedek küzd.<br /> Dányi Leonetta küzd.<br /> Gazsi Gergő formagyakorlat<br
+            /> Gyevi-Tóth Sarolta</p>\r\\n<p>Bronz:<br /> Solymossi Hanna küzd.<br />
+            Kukucska József küzd.<br /> Csikány Olivér küzd.<br /> Csikány Olivér formagyakorlat<br
+            /> Sidló Ádám küzd.<br /> Csányi Álmos küzd.<br /> Gazsi Gergő küzd.<br />
+            Kiss Viktor küzd.<br /> Csáki Máté formagyak.</p>\r\\n<p>Minden Tigrisnek
+            szívből gratulálunk, akinek most nem sikerült az se keseredjen el, lesz még
+            sok-sok versenyünk, addig is szorgalmas felkészülést!</p>\r\\n</div>"
+    - rowNumber: 32
+      values:
+        - value: "2016-05-10 13:31:26.0"
+        - value: Európa Bajnokság
+        - value:
+            <span>Pataki Krisztián V. danos mesterünk, Tamperében az Európa-bajnokságon,<br
+            /> formagyakorlatban a Magyar válogatott tagjaként bronz érmet szerzett!<br
+            /><img src="https://scontent.ftsr1-1.fna.fbcdn.net/v/t1.0-9/13103539_1123950917669780_1299124042225507378_n.jpg?oh=8890e43f58af8b4a91a35c7f98a58000&oe=579973FF"
+            alt="" width="400" height="400" /> </span>
+    - rowNumber: 33
+      values:
+        - value: "2018-01-31 09:53:40.0"
+        - value: Helyszín változás
+        - value:
+            '<strong><span style="font-size: medium;">Újpesti edzések:</span><br
+            /><br /></strong><strong><strong>Berzeviczy Gergely Két Tanítási Nyelvű Közgazdasági
+            Szakgimnázium.<br /> Budapest, Baross u. 72, 1047.</strong> <br />Kedden:
+            18:00-19:30 <br />Pénteken: 18:00-19:30<br /><a title="Térkép" href="https://goo.gl/maps/KE2rTApd8w82">Térkép</a><br
+            /></strong><br /><strong>Edző Kiss Viktor 1.Dan</strong><br /><strong>Telefon:  3670
+            6244366</strong>'
+    - rowNumber: 34
+      values:
+        - value: "2016-10-21 12:29:06.0"
+        - value: "6.th Taekwon-do World Cup "
+        - value:
+            'Október 12-16 között rendezték meg a minden idők legnagyobb ITF Taekwon-do
+            versenyét Budapesten.<br />56 országból 240 klub, 1846 versenyzője indult,
+            mellyel megdőlt a 2012-es Brightoni rekord.<br />Hazánkból 111 versenyző képviselte
+            klubját. <br /><img src="http://wcup2016.pztkd.lublin.pl/resources/logo.jpg"
+            alt="" width="640" height="80" /><br /><br />A Budapesti Tigrisek 3 fővel
+            erősítették a hihetetlenül színvonalas nemzetközi mezőnyt. <br /><br />  Dányi
+            Leonetta formagyakorlatban 40 fős mezőnyből 9. helyen végzett. Csak a későbbi
+            aranyérmes Finn hölgy tudta megverni, akivel kétszer is döntetlent formázott.
+            Küzdelemben 6. , speciál technikában pedig 4. helyen zárt. <br />  Kiss Viktor
+            mester -78 kg.-ban a legutóbbi világbajnokság ezüst érmesével kezdett, és
+            okos küzdelemmel egy hajszállal alul maradt 1-1-2 arányban. Törés technikában
+            sem került dobogóra, de rengeteg tapasztalatot szerzett a további nezetközi
+            versenyekre.<br /><img style="vertical-align: baseline;" src="https://scontent.ftsr1-1.fna.fbcdn.net/v/t1.0-9/14717214_10202382930412564_5189383933723738747_n.jpg?oh=a808bbe7b883f24a278bd66cbf41dd79&oe=58A3D303"
+            alt="" width="480" height="360" /><br />  Pataki Krisztián mester csapat formagyakorlatban
+            aranyérmes lett, ami olyan jól sikerült, hogy a rendezők felkérték a csapatot,
+            egy bemutatóra a szombat esti gálán. Tradicionális küzdelemben (ami egy előre
+            megkoreografált harc, akrobatikus elemekkel) sajnos korábbi párjával Szász
+            Péter mesterrel nem indulhatott, mert Ő már 46 évesen kiöregedett a kategóriából.
+            <br />Egy teljesen új párral indult. Enyingi Lászlóval, aki szintén 5.danos,
+            végül az ezüst éremig menetelt. <br />Speciál technikai törésben pedig 4.
+            helyen végzett.<img src="https://scontent.ftsr1-1.fna.fbcdn.net/v/t1.0-9/14721466_1161598670542917_7615966752545614636_n.jpg?oh=56059ff76f216149ec2287490cd69efb&oe=58A81F12"
+            alt="" width="480" height="320" />'
+    - rowNumber: 35
+      values:
+        - value: "2017-05-27 00:29:16.0"
+        - value: Adó 1%
+        - value:
+            "<span>Köszönjük minden kedves támogatónak, aki az adó 1 százalékával
+            támogatta az Egyesületünket! Óriási öröm és megtiszteltetés, hogy ennyien
+            velünk vagytok! Az adó 1% felajánlás, az önkéntes együttműködés, a sok picinek
+            tűnő, de fontos segítség nélkül nem lehetnénk ilyen sikeresek! 2015 ben az
+            1%-os felajánlásokból 341 774.-forintot kapott az egyesület.  Sikerünk, eredményeink
+            támogatóinkkal, segítőinkkel együtt közös! Köszönjük a figyelmet, a segítő
+            felajánlást, az adó 1 százalék támogatásokat! </span>"
+    - rowNumber: 36
+      values:
+        - value: "2018-07-29 13:12:55.0"
+        - value: Edzőtábor 2018
+        - value:
+            "<p>Idén is a megszokott helyen leszünk, Balatonon Augusztus 26-30, Szántódon
+            a Rév hotelben :)</p>\r\\n<p>5 nap/4 éj szállás teljes ellátással :  14év
+            felett 25.000.-, gyerekeknek 20.000.- forintért. </p>\r\\n<p>A táborba jöhetnek
+            szülők, esetleg barátok, barátnők is :)</p>\r\\n<p>Kérnék mindenkit, hogy
+            jelezze, hány fővel szeretne jelentkezni!</p>\r\\n<p>Ez már fix, mindenki
+            így tervezze a nyarát!</p>\r\\n<p> <span style=\"font-size: small;\"><strong>Éves
+            tagdíj</strong></span></p>\r\\n<p>Mint minden évben, most is tavasszal kell
+            fizetni egyesületünknek a hazai, és nemzetközi szövetség felé a kötelező éves-tagdíjakat.</p>\r\\n<p>Ezek
+            befizetése nélkül a tanítványok nem vizsgázhatnának.</p>\r\\n<p>Az éves tagdíjunk
+            évek óta nem változott:1000.-/fő melyet a tagsági igazolványokkal együtt szedünk
+            be az edzéseken.</p>\r\\n<p> </p>\r\\n<p align=\"center\">Köszönettel:</p>\r\\n<p
+            align=\"center\"><strong><em>Pataki Krisztián V.dan</em></strong> vezetőedző</p>\r\\n<p
+            align=\"center\">Budapesti Tigrisek SE.</p>"
+    - rowNumber: 37
+      values:
+        - value: "2018-09-25 22:18:00.0"
+        - value: EaglesCup
+        - value:
+            "<p><br /><img style=\"float: right;\" src=\"https://scontent.fbud5-1.fna.fbcdn.net/v/t1.0-9/42528196_2099548780109984_8565055955283214336_n.jpg?_nc_cat=105&oh=7344d091209c3853bc1247d37d93b5ef&oe=5C249FFD\"
+            alt=\"\" width=\"200\" height=\"328\" /><br />Most szombaton rendezték meg
+            a Mightifist Eagles Cup nemzetközi Taekwon-do versenyt. 12 nemzet közel 500
+            indulója vett részt. <br />Mi Tigrisek 7 fővel 8 érmet szereztünk.</p>\r\\n<p>Eredmények:<br
+            />Gyermek leány küzdelemben Solymosi Hanna Zoé bronz-, Gyevi-Tóth Sarolta
+            ezüstérmet szerzett.<span class=\"text_exposed_show\"><br />Gyermek formagyakorlat
+            kategóriában Kukucska József 32 indulóból lett ezüstérmes.<br />Ifjúsági leány
+            formagyakorlatban Nagy-Varga Csenge aranyérmet nyert.<br />Tradicionális küzdelemben
+            Csenge és Csáki Máté bronzérmesek lettek.<br />Felnőtt speciáltechnikai törésben
+            Pataki Krisztián a 3. helyet szerezte meg, <br />és -78kg.-os küzdelemben
+            ezüst érmes lett.<br />Gratulálunk a csapatnak! <span class=\"_47e3 _5mfr\"
+            title=\"smile hangulatjel\"><img class=\"img\" src=\"https://static.xx.fbcdn.net/images/emoji.php/v9/fa5/1.5/16/1f642.png\"
+            alt=\"\" width=\"16\" height=\"16\" /><span class=\"_7oe\"><br /><br /><br
+            /></span></span></span></p>"
+    - rowNumber: 38
+      values:
+        - value: "2018-10-15 18:11:35.0"
+        - value: IV. Blackbelt Cup
+        - value:
+            <img src="https://scontent.fbud5-1.fna.fbcdn.net/v/t1.0-9/44077948_2126410704090458_5700968644717051904_n.jpg?_nc_cat=107&_nc_eui2=AeG-PoE6l1Jki-WUxSqYsOT9m_hB0wHr5YnH2U1jcvDE2Vpx3xs8jiCvNIDQiWp9FbN13HMDYk18e1zhsi1B9iFTwysFiTG7bEAiav_FYZqrHg&oh=087fc07eec0e742dc89dd5712fc5faba&oe=5C14B457"
+            alt="" width="640" height="320" /><br />6 ország 15 klubja vett részt a 4.
+            Blackbelt cup nevű versenyen Ausztriában.<br /> 5 induló képviselte a Tigriseket.
+            7 aranyéremmel és 3 bronzéremmel,<br />kis csapatunk a második legeredményesebb
+            lett a klubok közül.<br /><a href="https://www.kihapp.com/tournaments/3981-4th-blackbelt-cup/results_by_club">https://www.kihapp.com/tournaments/3981-4th-blackbelt-cup/results_by_club</a> <br
+            /><br />Eredmények:<br />Gyevi-Tóth Benedek gyermek küzdelemben 3. hely.<br
+            /><br />Kukucska József gyermek formagyakorlatban 1. hely.<br /><br />Gyevi-Tóth
+            Sarolta serdülő formagyakorlatban 1. hely, küzdelemben 1. hely.<br /><br />Csáki
+            Máté Ifi formagyakorlatban 3. hely, küzdelemben 3. hely, <br />erőtörésben
+            1.hely, tradicionális küzdelemben 1.hely.<br /><br />Mesterünk Pataki Krisztián
+            4-6. dan formagyakorlatban 1. hely, <br />-80kg küzdelemben 1. hely, tradicionális
+            küzdelemben 1. hely.<br />Mellyel az érem táblázat legeredményesebb versenyzője
+            lett.<br /><a href="https://www.kihapp.com/tournaments/3981-4th-blackbelt-cup/results_by_individual">https://www.kihapp.com/tournaments/3981-4th-blackbelt-cup/results_by_individual</a> <br
+            /><br />Gratulálunk a versenyzőknek a hihetetlen eredményekhez!<br /><br />
+    - rowNumber: 39
+      values:
+        - value: "2019-03-06 13:00:34.0"
+        - value: Magyar Bajnokság 2019
+        - value:
+            '2019 Március 2-3.-án rendezték meg a Magyar Bajnokságot az új monori
+            Sportcsarnokban.<br />A Budapesti Tigriseket 7 induló képviselte.<br />Az
+            eredmények:<br />Gyermek küzdelemben -28kg-ban Gyevi-Tóth Benedek Magyar bajnoki
+            címet szerzett.<br />Gyermek formagyakorlatban a 3-1. gup-os kategóriában
+            Kukucska József állhatott a dobogó legmagasabb fokára.<br />Serdülő leány
+            küzdelemben -32kg. Gyevi-Tóth Sarolta ezüst érmet szerzett.<br />Ifi fiú erőtörésben
+            Csáki Máté megnyerte az erőtörést. Nem mellesleg, ő képviselhetii hazánkat
+            az idei világbajnokságon is, ebben a kategóriában. Csapat számokban is indult,
+            ahol további 1 arany, 2 ezüst, 1 bronz éremmel lett gazdagabb.<br />Pataki
+            Krisztián mester a 4-6.dan kategóriában lett Magyar bajnok, Tradicionális
+            küzdelemben ezüst érmes. És csapat ertörésben arany-, csapat formagyakorlatban
+            arany, csapat speciáltechnikai törésben pedig ezüst érmes lett.<br />Akiknek
+            most nem sikerült az éremszerzés, szintén ügyesen dolgoztak, de sajnos az
+            erős mezőnyben apróságokon dőlt el a továbbjutás sorsa.<br /> Összesen 7 arany,
+            5 ezüst, 1 bronzérem lett a termés. :)<img style="float: left;" src="https://scontent.fbud4-1.fna.fbcdn.net/v/t1.0-9/53414994_2418882624796590_501340030539661312_n.jpg?_nc_cat=111&_nc_ht=scontent.fbud4-1.fna&oh=91df5b760cca96dd464400dc3bcf481c&oe=5CDFB158"
+            alt="" width="1" height="1" />'
+    - rowNumber: 40
+      values:
+        - value: "2019-05-21 13:55:11.0"
+        - value: 8. Top-ten Spirit Open
+        - value:
+            A 8. Top-ten Spirit Open nemzetközi Taekwondo versenyen 10 ország, 47
+            csapata indult 1055 nevezéssel.</span><br /><span>Az éremtáblázaton a Tigrisek
+            a második helyet szerezték meg. </span><br /><span>9 arany-, 9 ezüst-, 21
+            bronzérmet sikerült begyűjteni. </span><br /><span>Hatalmas gratuláció a versenyzőknek,
+            edzőknek! </span><br /><span>Köszönjük a szülőknek, segítőknek a kitartást! </span><span
+            class="_47e3 _5mfr" title="smile hangulatjel"><img class="img" src="https://static.xx.fbcdn.net/images/emoji.php/v9/t4c/1/16/1f642.png?_nc_eui2=AeGCClEYMjhoexAAJ1rIE5dAS9GAf22UzV71J2PPeX0hmkNrJDilkDHI5yNYzSNM-3bm__uNZQzL6t2ujI6XKLSZ_bApu8ENeO9we_JcgVB5GA"
+            alt="" width="16" height="16" /><br /><br /><br /><img src="https://scontent.fbud5-1.fna.fbcdn.net/v/t1.0-9/56531125_2383129038418622_8969651022846754816_n.jpg?_nc_cat=103&_nc_eui2=AeHfEVyoBvLwFtb1eiS6zuvC19awuq-kNUWF6OBEb-oy6-f6dfgFpiCauWKnQoQ5Gd5fdYxQSxiGYbK0BtIQhKSfYUGuDjkR1fwuJuOeUSNPtA&_nc_ht=scontent.fbud5-1.fna&oh=2e072ab9d2049a52463d1ea9d9d97ff9&oe=5D65C65A"
+            alt="" width="480" height="360" />
+    - rowNumber: 41
+      values:
+        - value: "2020-01-19 01:00:00.0"
+        - value: Egyedi
+        - value:
+            <span>Egyesületünk megjelenéséhez nagyban hozzájárult a egységes melegítők
+            beszerzése, és most itt az új kesztyű, melytől retteghetnek az ellenfelek </span><span
+            class="_47e3 _5mfr" title="smile hangulatjel"><img class="img" src="https://static.xx.fbcdn.net/images/emoji.php/v9/t4c/1/16/1f642.png"
+            alt="" width="16" height="16" /></span><span> Szerintetek is elég szép lett?<br
+            /><img src="https://scontent.fbud5-1.fna.fbcdn.net/v/t1.0-9/82563333_2948050861926434_6346378439758446592_n.png?_nc_cat=100&_nc_sid=730e14&_nc_ohc=aRfRc07aSM0AX8q2aUt&_nc_ht=scontent.fbud5-1.fna&oh=26284229c0d5ecabb003bbfdb9dd8c45&oe=5F868126"
+            alt="" width="680" height="907" /></span>
+    - rowNumber: 42
+      values:
+        - value: "2019-05-21 14:03:34.0"
+        - value: VB. bronz
+        - value:
+            A németországi Inzell-ben rendezték meg a Taekwon-do világbajnokságot.<br
+            />Csapatunkat két fő képviselte a rangos mezőnyben. <br />64 ország 1234 versenyzője
+            mérhette össze tudását az 5 napos viadalon.<br />Csáki Máté a Magyar válogatott
+            tagjaként bronzérmet szerzett erőtörésben.<br />Gratulálunk neki! <br /><img
+            src="https://scontent.fbud5-1.fna.fbcdn.net/v/t1.0-9/58376994_2413346272063565_6633564846799454208_n.jpg?_nc_cat=111&_nc_eui2=AeH6woTk1oGnic4_vrOjI4YT-m8NxHZeScTiCqAND-uA9ktAx2UqYPiXlQaM_5wG_5zWvh57evxw0jQWkO9IPhgdDRgM-adzZ5ih9-Iiz6TnPw&_nc_ht=scontent.fbud5-1.fna&oh=8c2b24ae0c64c6612a433fd342775493&oe=5D6B76BB"
+            alt="" width="480" height="853" />
+    - rowNumber: 43
+      values:
+        - value: "2019-05-12 00:50:00.0"
+        - value: Nemzetek kupája
+        - value:
+            <span>Hatvan városában rendezték meg a 17. Nemzetek kupája gyermek-serdülő-ifjusági
+            Taekwon-do versenyt. </span><br /><span>A 9 ország 250 versenyzője formagyakorlat
+            és küzdelem versenyszámban mérhette össze tudását.</span><br /><span>Egyesületünk
+            7 fővel képviseltette magát.</span><br /><span>Az eredmények:</span><br /><span>Gyevi-Tóth
+            Sarolta serdülő -35kg-ban 3.hely, formagyakorlatban 2. hely.</span><span class="text_exposed_show"><br
+            />Gyevi-Tóth Benedek gyermek -30kg. az idei Magyarbajnoki cím után a nemzetközi
+            mezőnyben is győzedelmeskedett. 1. hely.<br />Horváth Eszter serdülő -40kg-ban
+            3.hely.<br />Kukucska József gyermek formagyakorlatban nem talált legyőzőre.
+            1.hely.<br />Akik most nem állhattak fel a dobogóra, szinte mind a kategória
+            későbbi győztesével kerültek szembe a 16, vagy 8 közé jutásnál. Nagyon szépen
+            dolgoztak. Pataki Krisztián mester pozitívan értékelte az ő teljesítményüket
+            is. <br />Gratulálunk a versenyzőknek!<br /><img src="https://scontent.fbud5-1.fna.fbcdn.net/v/t1.0-9/s960x960/60355449_2440502819347910_8965558756532289536_o.jpg?_nc_cat=107&_nc_ohc=nIPA2jG-68cAQkDnawnHLhhSPn-bc0uNPUY2AEekVrKh1_3cR_RIJNAdg&_nc_ht=scontent.fbud5-1.fna&oh=3d4745191bce92cea3268595f37014ea&oe=5E97FE86"
+            alt="" width="610" height="720" /><br /></span>
+    - rowNumber: 44
+      values:
+        - value: "2019-05-21 14:07:22.0"
+        - value: Decathlon kupa 2019
+        - value:
+            <span>Május 18.-án rendezték a soroksári Decahlon áruház gyermeknapi
+            sportnapját, ahol Egyesületünk is jelen volt. <br />Tartottunk bemutatót is,
+            és versenyt szervezhettünk a gyerekeknek. </span><br /><span>Nagyszerűen sikerült
+            nap volt ez, hála a résztvevőknek, és a szervezőknek is. </span><br /><span>33
+            kis Tigris léphetett tatamira az idei Decathlon kupán. <br />Sokaknak ez volt
+            az első megmérettetésük, ők is nagyszerűen helyt álltak.</span><br /><span>Az
+            eredmény 12 arany-, 12 ezüst-, 9 bronz érem.<img src="https://scontent.fbud5-1.fna.fbcdn.net/v/t1.0-9/60935393_2455381921193333_678229151978618880_n.jpg?_nc_cat=103&_nc_eui2=AeEnieGUXDdBaFvG0U7RRs2Luugn4cpPUtfXGIAVh0AuPQwbTeBx4avgyMh2u69ASQFiBWb162NE4hBvFWTAXNT6ky2LxlHdhlB1NKCFV14lyA&_nc_ht=scontent.fbud5-1.fna&oh=a287a1ddc7ff76281e90aabdb437d818&oe=5D9B9933"
+            alt="" width="480" height="276" /></span>
+    - rowNumber: 45
+      values:
+        - value: "2019-06-02 22:45:38.0"
+        - value: Eredményes vizsga
+        - value:
+            <span>Ahogy minden évben, most is a központi edzőteremben rendezték az
+            Országos összevont, nyári színesöves vizsgákat.</span><br /><span>A vizsgáztató
+            Harmat László 9. danos nagymester volt. <br />Sikeresen vizsgázott kék övre
+            Petrényi György, kék öv piros csíkra Takács Ágnes és Gyevi-Tóth Sarolta (Lotti),
+            <br />piros övre Kökény Bence, és fekete csíkra Nagy-Varga Csenge, Nagy-Varga
+            Bence.</span><br /><span>Nagyon szépen dolgoztak, sokan dícséretben is részesültek.
+            Gratulálunk a teljesítményükhöz<img src="https://scontent.fbud4-1.fna.fbcdn.net/v/t1.0-9/61833857_2476534495744742_6823166096476995584_n.jpg?_nc_cat=100&_nc_ht=scontent.fbud4-1.fna&oh=1947691968d035228aa3bf199dc61466&oe=5D8DEDF4"
+            alt="" width="640" height="529" /></span>
+    - rowNumber: 46
+      values:
+        - value: "2019-11-27 16:36:33.0"
+        - value: V. Blackbelt cup
+        - value:
+            "<div><span>A Budapesti Tigrisek SE Taekwondo szakosztálya rendszeresen
+            jár Nemzetközi versenyekre. </span></div>\r\\n<div><span>Ahol az élményeken,
+            és a tapasztalaton kívül, csillogó érmeket is lehet szerezni. A tavalyi év
+            sikerein felbuzdulva, idén is részt vettünk az 5. Blackbelt Cup-on, melyet
+            Sankt-Pöltenben rendeztek 2019. november 9-én.</span><br /><span>8 ország
+            versenyzői mérték össze a tudásukat formagyakorlat, küzdelem és töréstechnika
+            versenyszámokban. </span></div>\r\\n<div><span>Egyesületünk 13 indulója összesen
+            25 éremmel térhetett haza.</span><br /><span>Külön gratulálunk Kukucska Józsefnek
+            (Jocinak) az Eötvös Lóránd Általános Iskola tanulójának, aki 2 arany, 1 ezüst
+            és 1 bronz éremmel a gyermek korosztály legeredményesebb fiú versenyzője lett.<br
+            /><br /></span><img src=\"https://scontent.fbud5-1.fna.fbcdn.net/v/t1.0-0/p180x540/75557475_2811912068873648_5624051441212588032_o.jpg?_nc_cat=111&_nc_ohc=OHurUhhsvFQAQmoVG0hfgaMgb0HZkFQ1CLItvQboMom9dWvxn2em_c37A&_nc_ht=scontent.fbud5-1.fna&oh=018a91c3fa6c29adfefd2d9af8b48659&oe=5E7B931A\"
+            alt=\"\" width=\"640\" height=\"360\" /><br /><br /><span>Versenyeredményeink
+            betűrendben:</span><br /><br /><span>Csáki Máté: 3 bronz</span><span class=\"text_exposed_show\"><br
+            />Dányi Leonetta: 2 bronz<br />Galda Helga: 1 bronz<br />Gyevi-Tóth Benedek:
+            1 bronz<br />Gyevi-Tóth Sarolta: 3 bronz<br />Kiss Viktor: 2 bronz<br />Kukucska
+            József: 2 arany, 1 ezüst, 1 bronz<br />Marcsek Benedek: 1 bronz<br />Patakiné
+            Zsiros Anikó: 2 bronz<br />Solymosi Hanna: 1 bronz<br />Szőnyi Csilla: 1 ezüst,
+            1 bronz<br />Takács Ágnes: 1 bronz.<br />Trepka Zsolt 1 ezüst, 1 bronz<br
+            />Gratulálunk minden résztvevőnek a bátor helytállásért, s további sikeres
+            felkészülést kívánunk.</span></div>"
+    - rowNumber: 47
+      values:
+        - value: "2019-11-27 16:45:18.0"
+        - value: Díjátadón a Tigrisek
+        - value:
+            '<span><img style="float: right;" src="https://scontent.fbud5-1.fna.fbcdn.net/v/t1.0-9/s960x960/75491817_2804026916328830_3070423762873614336_o.jpg?_nc_cat=111&_nc_ohc=nGzcBkoocQkAQkh_bbcm_B_q37ZkVW5S9dLFZzteN0qtzd2Qnv09x3XBA&_nc_ht=scontent.fbud5-1.fna&oh=78db7a49baef964e3291d54d7cab8eba&oe=5E888CC8"
+            alt="" width="360" height="471" />Az elmúlt év Diákolimpikonait köszöntötték
+            a Kondor Béla Közösségi házban, november 13.-án. <br />Díjátadóként jelen
+            volt Szaniszló Sándor polgármester úr, Kunhalmi Ágnes Országgyűlési képviselő,
+            Somody László sportért felelős alpolgármester is. Az Önkormányzat és a Soroksári
+            Decathlon áruház közös ajándékát kapták, az országos diákolimpia dobogós helyezettjei,
+            és felkészítő tanáraik, edzőik.</span><br /><span>Egyesületünk nagyon szépen
+            szerepelt.<br /></span><br /><span>Díjazottak voltak:<br /></span><br /><span>Nagy-Varga
+            Csenge</span><br /><span>Szepesi Henriet</span><span class="text_exposed_show">t<br
+            />Szőnyi Csilla<br />Gyevi-Tóth Benedek<br />Kukucska József<br />Ferencz
+            Botond és<br />edzőjük Pataki Krisztián mester.</span>'
+    - rowNumber: 48
+      values:
+        - value: "2019-11-27 16:49:43.0"
+        - value: Diákolimpia Makó
+        - value:
+            "<p>Az idei év ITF Taekwon-do Országos Diákolimpiát Makón rendezték meg.
+            A Tigrisek ismét hihetetlenül jól szerepeltek.</p>\r\\n<p>Kukucska József
+            Gyermek formagyakorlat 1. hely<br />Gyevi-Tóth Benedek Gyermek Küzdelem 1.hely,
+            forma 3.hely<br />Gyevi-Tóth Sarolta Serdülő küzdelem 1. hely forma 2.hely<span
+            class=\"text_exposed_show\"><br />Gervai Milán Gyermek Küzdelem 1, forma 2.hely<br
+            />Dányi Leonetta felnőtt női küzdelem 3. hely, forma 2.hely<br />Petrényi
+            György, ifi fiú küzdelem 1. hely<br />Horváth Anna Eszter serdülő Küzdelem
+            2.hely<br />Szőnyi Csilla serdülő Küzdelem 2. hely<br />Pataki Marcell serdülő
+            forma 3. hely</span></p>\r\\n<div class=\"text_exposed_show\">\r\\n<p>A korai
+            mérlegelés miatt a csapat egyik fele már ott aludt, a többiek 4 óra környékén
+            indultak útnak. Reméljük, hogy a jövő évi verseny közelebb kerül megrendezésre!
+            Talán közelebb mint gondolnánk <span class=\"_47e3 _5mfr\" title=\"wink hangulatjel\"><img
+            class=\"img\" src=\"https://static.xx.fbcdn.net/images/emoji.php/v9/t57/1/16/1f609.png\"
+            alt=\"\" width=\"16\" height=\"16\" /></span></p>\r\\n<p>Hatalmas gratuláció
+            a Tigriseknek!<img src=\"https://scontent.fbud5-1.fna.fbcdn.net/v/t1.0-9/s960x960/78669285_2826268240771364_1692406286458552320_o.jpg?_nc_cat=105&_nc_ohc=UeWWh9kU0twAQnmlBqplZK6HNpi--F2s8FbaTpVzYHtm5V1Q1yMESXH-A&_nc_ht=scontent.fbud5-1.fna&oh=900b519dce2037d069b27f626b5315b2&oe=5E4B7BC8\"
+            alt=\"\" width=\"640\" height=\"422\" /></p>\r\\n</div>"
+    - rowNumber: 49
+      values:
+        - value: "2019-12-02 10:38:32.0"
+        - value: Országos összevont övvizsga
+        - value:
+            '<img style="float: right;" src="https://scontent.fbud5-1.fna.fbcdn.net/v/t1.0-9/78035944_2837540442977477_7908382823256424448_n.jpg?_nc_cat=101&_nc_ohc=ly1xZ6ygE2oAQlwG_Fjbr3E4H7Su-kdJethlJ8Ad6lwyh9431rQvKBBpg&_nc_ht=scontent.fbud5-1.fna&oh=7493cf863823a6c89053f9d1f05b2694&oe=5E758596"
+            alt="" width="480" height="488" />Most hétvégén rendezték meg az Országos
+            összevont övvizsgákat.<br /> A két napos vizsga során kék övtől pirosöv fekete
+            csíkig lehetett vizsgázni a Központi edzőteremben, Harmat László IX.Danos
+            nagymester előtt. <br />A Tigrisek közül mindenki szépen szerepelt, többeket
+            külön dícséretben részesítettek.<br />Sikeresen vizsgáztak:<br />Wieser Melinda
+            - Kék övre,<br />Petrényi Görgy - Kéköv piros csíkra,<br />Takács Ágnes, Gyevi-tóth
+            Sarolta és Kukucska József - Piros övre,<br />Kökény Bence -  Piros öv fekete
+            csíkra. Gratulálunk a vizsgázóknak és felkészítő mestereiknek.'
+    - rowNumber: 50
+      values:
+        - value: "2019-12-21 19:23:42.0"
+        - value: Taekwon-do KIDS vizsga
+        - value:
+            'Az év utolsó megmérettetése a 8 év alatti KIDS programunk vizsgája volt.
+            <br />12 kis Tigris vizsgázott a következő öv fokozatért.<br />A vizsgára
+            mind 3 gyerek edzés helyszínünkről érkeztek a bátor harcosok. <br />Hatan
+            kaptak kettős előléptetést, és egy kis Tigris pedig hármas előléptetést érdemelt
+            ki.<br />A vizsgáztató Mester igen szigorú volt, de a gyermekek felészültek
+            voltak, és vidáman büszkélkedhettek szüleiknek a tudásukkal, a megszerzett
+            új öv fokozatukkal.<br />Gratulálunk nekik, felkészítő edzőiknek, és a szüleiknek
+            is! <br /><br /><img style="vertical-align: baseline;" src="https://scontent.fbud4-1.fna.fbcdn.net/v/t1.0-9/s960x960/81062988_2880962011968653_3041145675191418880_o.jpg?_nc_cat=109&_nc_eui2=AeEIJYFAQ9LPOho02O1eighhtB4sSpnXTIDdSALnwsBOd-XkFNAgsQzFggFVlJajnFO0ST-EX0DDEd8m6Qc4JJOwp8iONPljPgHdZwhWisqkMQ&_nc_ohc=cm62EbnLYoEAQn2aucRAZreiI6IyH1t_AdNvJAS_xUYkR5s_f1JzbRzGQ&_nc_ht=scontent.fbud4-1.fna&oh=db1d83202ef252deaf8d291439bd887a&oe=5E6FED96"
+            alt="" width="640" height="427" />'
+    - rowNumber: 51
+      values:
+        - value: "2019-12-21 19:54:52.0"
+        - value: ITF Taekwon-do
+        - value:
+            <iframe src="https://www.youtube.com/embed/VKd3I3aCtxQ" frameborder="0"
+            width="720" height="405"></iframe>
+    - rowNumber: 52
+      values:
+        - value: "2019-12-31 15:29:00.0"
+        - value: ""
+        - value:
+            '<span><span style="font-size: small;">Ismét eltelt egy év. </span><br
+            /><span style="font-size: small;">Egyesületünk idén is eredményesen szerepelt
+            a versenyeken, bemutatókon.</span></span><br /><span style="font-size: small;">Szuper
+            hangulatú volt az edzőtáborunk. <br />A Tigris kupa nagyon jól sikerült. <br
+            />Az idei évzáró partynkon is nagyon sok díjat tudtunk kiosztani a csapatot
+            segítőknek <span class="_47e3 _5mfr" title="smile hangulatjel"><img class="img"
+            src="https://static.xx.fbcdn.net/images/emoji.php/v9/t4c/1/16/1f642.png" alt=""
+            width="16" height="16" /></span></span><br /><span style="font-size: small;">Örülünk,
+            hogy jól éreztétek magatokat a bulin, és egész évben!<br /></span><br /><span
+            style="font-size: small;">Kívánunk hasonlóan jó évet jövőre is!</span><br
+            /><span style="font-size: small;"><br />Hajrá Tigrisek!<br /><img style="vertical-align:
+            baseline;" src="https://i.ytimg.com/vi/HGsjnIyzN_Y/maxresdefault.jpg" alt=""
+            width="680" height="383" /></span>'
+    - rowNumber: 53
+      values:
+        - value: "2020-01-28 01:00:00.0"
+        - value: Vizsga
+        - value:
+            "<p>Sikeresen vizsgáztak a Tigrisek!</p>\r\\n<p>A téli övvizsgánkon mind
+            a 37 vizsgázó új övfozatot szerzett. 8-an pedig kettős előléptetést kaptak,
+            kiemelkedő teljesítményükért. Gratulálunk nekik!<br />Mától pedig megkezdjük
+            a felkészülést a tavaszi versenyidőszakra.<br />Hajrá Tigrisek!<br /><img
+            src=\"https://scontent.fbud5-1.fna.fbcdn.net/v/t1.0-9/84880873_2966555963409257_4391709145124831232_n.jpg?_nc_cat=106&_nc_sid=730e14&_nc_ohc=-Omrwg4MPj0AX_9m-Do&_nc_ht=scontent.fbud5-1.fna&oh=20ce829c05500f34884b65d34b8e90cd&oe=5F861E97\"
+            alt=\"\" width=\"700\" height=\"333\" /></p>"
+    - rowNumber: 54
+      values:
+        - value: "2020-02-16 01:00:00.0"
+        - value: Szeminárium
+        - value:
+            <span>Február 16.-án szombaton rendezték az idei Országos technikai szemináriumot
+            Monoron. A képzés a Taekwon-do elméleti részét taglalta, illetve a formagyakorlatok
+            pontosítását helyezte előtérbe. A Tigriseket kis csapatunk képviselte. Akik
+            alig várják, hogy tovább adhassák a hallotakat, látottakat.<br /><img src="https://scontent.fbud5-1.fna.fbcdn.net/v/t1.0-9/86793570_3007722449292608_8845777457291198464_o.jpg?_nc_cat=104&_nc_sid=8bfeb9&_nc_ohc=lS1s2ovQsdwAX_fCjwJ&_nc_ht=scontent.fbud5-1.fna&oh=e6c8e97bd780db9bb1f815fac2204b02&oe=5F86017B"
+            alt="" width="640" height="328" /></span>
+    - rowNumber: 55
+      values:
+        - value: "2020-05-05 02:00:00.0"
+        - value: Újra nyitás
+        - value:
+            Örömmel jelentjük, hogy edzéseink újra indulnak, minden óvintézkedést
+            betartva kis csoportokban. ;) <br /><br />
+    # <img style="float: right;" src="https://scontent.fbud5-1.fna.fbcdn.net/v/t1.0-9/82100103_2909706949094159_8489622972217163776_n.jpg?_nc_cat=111&_nc_sid=8bfeb9&_nc_ohc=23i7oakbSFAAX9ZQQZV&_nc_ht=scontent.fbud5-1.fna&oh=8a58ca5de281fa53116e8ddc70d5ab2e&oe=5F875790"
+    # alt="" width="300" height="305" />
+    - rowNumber: 56
+      values:
+        - value: "2020-09-01 02:00:00.0"
+        - value: "Szeptembertől "
+        - value: '
+            <h2>Lőrinc - küzdelmi edzés<em> </h2>
+
+            Edzések helye:</em> 1181 Bp. Kondor Béla sétány 7.
+            Kondor Béla általános Iskola tornaterme<br/>
+
+            <em>Edzések időpontja:</em> hétfő 18.00-19.30<br/>
+
+            <h2>Lőrinc - bázistechnikai edzés:</h2>
+
+            <em>Edzések helye:</em> Tigers Gym, 1181 Budapest,
+            Havanna u. 3.<br/>
+            <em>Edzések időpontja:</em> péntek 16.30-18.00<br/>
+
+            <h2>Ovis, gyerek edzések 4-7 éveseknek</h2>
+
+            <em>Edzések helye: </em>Budapest, XVIII. Kondor Béla sétány 7.<br/>
+            hétfő-csütörtök: 16.30-17.30<br/>
+
+            Vezető
+            edző: Pataki Krisztián VI.dan +36 70 941 5992 <br/>
+
+            <h2>Újpesti edzések</h2>
+
+            <em>Edzések helye:</em> <br/>
+            Kellner Ferenc Sportközpont, 1045 Pozsonyi utca 4/c<br/>
+
+            <em>Edzések időpontja:</em>
+            Kezdő - Gyerek: szerda-péntek 17:45-18:45<br/>
+            Felnőtt: szerda - péntek 18:45-19:45<br/>
+            <em>Edző: <br/>
+            </em>Dányi Leonetta II. Dan, <a href="tel: 36 30 861 9396" target="_blank"> 36 30 861 9396</a>'
